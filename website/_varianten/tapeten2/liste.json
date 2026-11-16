@@ -1,0 +1,142 @@
+[
+ {
+  "n": 1,
+  "name": "Damast",
+  "satz": "Ein voller Damast wie beim Carlton, in der Mitte das S doppelt als Lyra, Palmette darüber, Ranken darunter.",
+  "w": 236,
+  "h": 320
+ },
+ {
+  "n": 2,
+  "name": "Zwiebelbogen, voll",
+  "satz": "Der heutige Zwiebelbogen als Blattranke, in jedem Feld ein kleiner Damast mit dem S.",
+  "w": 300,
+  "h": 400
+ },
+ {
+  "n": 3,
+  "name": "Storen mit Ranke",
+  "satz": "Streifen wie die Sonnenstoren, im breiten Streifen läuft eine Ranke, im schmalen steht das S.",
+  "w": 240,
+  "h": 360
+ },
+ {
+  "n": 4,
+  "name": "Palmetten",
+  "satz": "Palmetten und Voluten wie ein antiker Fries, über die ganze Wand im Versatz.",
+  "w": 220,
+  "h": 220
+ },
+ {
+  "n": 5,
+  "name": "Rosetten",
+  "satz": "Grosse Rosetten mit dem S, kleine an den Ecken, Perlschnüre dazwischen.",
+  "w": 220,
+  "h": 220
+ },
+ {
+  "n": 6,
+  "name": "Geranien",
+  "satz": "Die roten Geranien aus den Fensterkästen der Fassade als Dolden mit Blättern, Ton in Ton.",
+  "w": 220,
+  "h": 220
+ },
+ {
+  "n": 7,
+  "name": "Schiff in Kartusche",
+  "satz": "Das Kursschiff in einem Rahmen mit Voluten, dazwischen das S mit Zweigen.",
+  "w": 320,
+  "h": 300
+ },
+ {
+  "n": 8,
+  "name": "Schuppen mit Fächer",
+  "satz": "Volle Fischschuppen für die Fischküche, in jeder ein Fächer und eine halbe Rosette.",
+  "w": 192,
+  "h": 192
+ },
+ {
+  "n": 9,
+  "name": "Sonnenrad",
+  "satz": "Ein Sonnenrad mit Flammenstrahlen um das S, Sterne dazwischen. Morgen- und Abendsonne.",
+  "w": 184,
+  "h": 184
+ },
+ {
+  "n": 10,
+  "name": "Pilaster mit Ranke",
+  "satz": "Wie die geschnitzten Pilaster an der Fassade: eine Ranke mit Voluten zwischen Perlstäben.",
+  "w": 170,
+  "h": 400
+ },
+ {
+  "n": 11,
+  "name": "Laubmedaillon",
+  "satz": "Ovales Medaillon mit Schleife, Lorbeer-Girlanden zum Nachbarn, darin das S.",
+  "w": 280,
+  "h": 340
+ },
+ {
+  "n": 12,
+  "name": "Rosenspalier",
+  "satz": "Ein Gartengitter mit Kletterrosen an jeder Kreuzung und Blättern an den Stäben.",
+  "w": 200,
+  "h": 300
+ },
+ {
+  "n": 13,
+  "name": "Eierstab-Kassette",
+  "satz": "Tiefe Felder mit Eierstab ringsum, in der Mitte eine Rosette mit dem S.",
+  "w": 200,
+  "h": 200
+ },
+ {
+  "n": 14,
+  "name": "Zementfliese",
+  "satz": "Wie eine Bodenfliese aus der Zeit des Café de la Gare: Viertelbögen und ein Blattkreuz.",
+  "w": 180,
+  "h": 180
+ },
+ {
+  "n": 15,
+  "name": "Alpenblumen",
+  "satz": "Edelweiss und Enzian im Streumuster, wie eine Chalet-Tapete, Ton in Ton.",
+  "w": 200,
+  "h": 200
+ },
+ {
+  "n": 16,
+  "name": "Felchen",
+  "satz": "Fische aus dem Brienzersee gegeneinander, mit kleinen Wellen und dem S. Für die Fischküche.",
+  "w": 200,
+  "h": 170
+ },
+ {
+  "n": 17,
+  "name": "S-Rosette",
+  "satz": "Das S achtmal um eine Mitte gedreht. Eine Rosette ganz aus der Wortmarke.",
+  "w": 220,
+  "h": 220
+ },
+ {
+  "n": 18,
+  "name": "Jugendstil",
+  "satz": "Lange geschwungene Stiele und Tulpen aus der Zeit, als 1906 das Chalet dazukam.",
+  "w": 240,
+  "h": 400
+ },
+ {
+  "n": 19,
+  "name": "Brokatstreifen",
+  "satz": "Ein breiter Streifen mit kleinem Damast, ein schmaler mit Perlschnur und Blüten.",
+  "w": 220,
+  "h": 240
+ },
+ {
+  "n": 20,
+  "name": "Kerbschnitt",
+  "satz": "Sechsstern-Rosetten und Zahnschnitt wie an den Holzhäusern im Oberland.",
+  "w": 240,
+  "h": 240
+ }
+]

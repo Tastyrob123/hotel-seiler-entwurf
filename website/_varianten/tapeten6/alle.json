@@ -1,0 +1,162 @@
+[
+ {
+  "nr": 1,
+  "name": "Damast",
+  "satz": "Der klassische Damast: das Ornament glänzt als Satin auf mattem Grund, Ton in Ton.",
+  "w": 236,
+  "h": "_varianten/tapeten6/01-h.webp",
+  "d": "_varianten/tapeten6/01-d.webp"
+ },
+ {
+  "nr": 2,
+  "name": "Damast klein",
+  "satz": "Derselbe Damast im kleinen Rapport, ruhiger, eher Stoff als Bild.",
+  "w": 142,
+  "h": "_varianten/tapeten6/02-h.webp",
+  "d": "_varianten/tapeten6/02-d.webp"
+ },
+ {
+  "nr": 3,
+  "name": "Zwiebelbogen",
+  "satz": "Der Ogee-Bogen mit Blattwerk, wie in alten Grand Hotels, als Satin auf Matt.",
+  "w": 240,
+  "h": "_varianten/tapeten6/03-h.webp",
+  "d": "_varianten/tapeten6/03-d.webp"
+ },
+ {
+  "nr": 4,
+  "name": "Damaststreifen",
+  "satz": "Breiter Satinstreifen mit eingewebter Ranke, schmale Streifen dazwischen.",
+  "w": 200,
+  "h": "_varianten/tapeten6/04-h.webp",
+  "d": "_varianten/tapeten6/04-d.webp"
+ },
+ {
+  "nr": 5,
+  "name": "Lilien",
+  "satz": "Kleine Lilien im Versatz, das französische Muster der grossen Häuser.",
+  "w": 140,
+  "h": "_varianten/tapeten6/05-h.webp",
+  "d": "_varianten/tapeten6/05-d.webp"
+ },
+ {
+  "nr": 6,
+  "name": "Empire-Sterne",
+  "satz": "Winzige Sterne im Raster, wie in einem Empire-Salon.",
+  "w": 90,
+  "h": "_varianten/tapeten6/06-h.webp",
+  "d": "_varianten/tapeten6/06-d.webp"
+ },
+ {
+  "nr": 7,
+  "name": "Lorbeerkranz",
+  "satz": "Kleine Lorbeerkränze mit Stern, Empire, sehr zurückhaltend.",
+  "w": 150,
+  "h": "_varianten/tapeten6/07-h.webp",
+  "d": "_varianten/tapeten6/07-d.webp"
+ },
+ {
+  "nr": 8,
+  "name": "Treillage",
+  "satz": "Ein feines Gartengitter aus Satinstäben mit Rosetten, wie in einem Salon.",
+  "w": 120,
+  "h": "_varianten/tapeten6/08-h.webp",
+  "d": "_varianten/tapeten6/08-d.webp"
+ },
+ {
+  "nr": 9,
+  "name": "Medaillons",
+  "satz": "Kleine Rosetten-Medaillons im Raster, wie ein Seidenfoulard.",
+  "w": 110,
+  "h": "_varianten/tapeten6/09-h.webp",
+  "d": "_varianten/tapeten6/09-d.webp"
+ },
+ {
+  "nr": 10,
+  "name": "Vierpass",
+  "satz": "Ein ruhiges Vierpass-Gitter, gotisch-klassisch, als Satinlinie.",
+  "w": 100,
+  "h": "_varianten/tapeten6/10-h.webp",
+  "d": "_varianten/tapeten6/10-d.webp"
+ },
+ {
+  "nr": 11,
+  "name": "Arabeske",
+  "satz": "Symmetrische Ranken und Voluten im Stil Louis XV.",
+  "w": 160,
+  "h": "_varianten/tapeten6/11-h.webp",
+  "d": "_varianten/tapeten6/11-d.webp"
+ },
+ {
+  "nr": 12,
+  "name": "Palmetten",
+  "satz": "Palmetten und Girlanden, klassizistisch, im Versatz.",
+  "w": 176,
+  "h": "_varianten/tapeten6/12-h.webp",
+  "d": "_varianten/tapeten6/12-d.webp"
+ },
+ {
+  "nr": 13,
+  "name": "Rosetten",
+  "satz": "Grosse Rosetten mit kleinen dazwischen, wie ein Brokat.",
+  "w": 176,
+  "h": "_varianten/tapeten6/13-h.webp",
+  "d": "_varianten/tapeten6/13-d.webp"
+ },
+ {
+  "nr": 14,
+  "name": "Regency-Streifen",
+  "satz": "Breiter Satinstreifen, zwei schmale Begleiter. Der Klassiker in Hotelfluren.",
+  "w": 400,
+  "h": "_varianten/tapeten6/14-h.webp",
+  "d": "_varianten/tapeten6/14-d.webp"
+ },
+ {
+  "nr": 15,
+  "name": "Seidenstreifen",
+  "satz": "Gleich breite Streifen, Satin und Matt im Wechsel. Ruhig wie eine Seidenwand.",
+  "w": 400,
+  "h": "_varianten/tapeten6/15-h.webp",
+  "d": "_varianten/tapeten6/15-d.webp"
+ },
+ {
+  "nr": 16,
+  "name": "Satin-Nadelstreifen",
+  "satz": "Feine glänzende Nadelstreifen auf Matt.",
+  "w": 400,
+  "h": "_varianten/tapeten6/16-h.webp",
+  "d": "_varianten/tapeten6/16-d.webp"
+ },
+ {
+  "nr": 17,
+  "name": "Moiré-Seide",
+  "satz": "Seidenmoiré über die ganze Fläche, das Wasserzeichen wandert mit dem Licht.",
+  "w": 400,
+  "h": "_varianten/tapeten6/17-h.webp",
+  "d": "_varianten/tapeten6/17-d.webp"
+ },
+ {
+  "nr": 18,
+  "name": "Moiré-Streifen",
+  "satz": "Streifen aus Moiré-Seide im Wechsel mit mattem Papier.",
+  "w": 400,
+  "h": "_varianten/tapeten6/18-h.webp",
+  "d": "_varianten/tapeten6/18-d.webp"
+ },
+ {
+  "nr": 19,
+  "name": "Rautendiaper",
+  "satz": "Kleine glänzende Rauten in strengem Versatz, wie ein Krawattenstoff.",
+  "w": 384,
+  "h": "_varianten/tapeten6/19-h.webp",
+  "d": "_varianten/tapeten6/19-d.webp"
+ },
+ {
+  "nr": 20,
+  "name": "Fächer",
+  "satz": "Art-déco-Fächer, wie im Foyer eines Grandhotels der Zwanziger.",
+  "w": 360,
+  "h": "_varianten/tapeten6/20-h.webp",
+  "d": "_varianten/tapeten6/20-d.webp"
+ }
+]

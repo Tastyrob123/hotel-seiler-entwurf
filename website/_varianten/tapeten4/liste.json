@@ -1,0 +1,142 @@
+[
+ {
+  "n": 1,
+  "name": "Leinen",
+  "satz": "Feines Leinen in Kette und Schuss. Ruhig, warm, sieht nach Stoff an der Wand aus.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 2,
+  "name": "Grastapete",
+  "satz": "Gewebte Gräser quer, feine Kettfäden senkrecht. Die klassische Wand guter Hotels.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 3,
+  "name": "Rohseide",
+  "satz": "Rohseide mit kleinen Verdickungen im Faden und weichem Glanz.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 4,
+  "name": "Kalkputz",
+  "satz": "Mineralischer Putz, leicht wolkig, ganz fein gekörnt. Fast keine Zeichnung, nur Tiefe.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 5,
+  "name": "Moiré",
+  "satz": "Seidenmoiré: wässrige Schlieren, die sich im Licht verschieben.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 6,
+  "name": "Rillen",
+  "satz": "Senkrechte Rillen im Relief, wie gefräste Holz- oder Gipsplatten. Modern, architektonisch.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 7,
+  "name": "Höhenlinien",
+  "satz": "Höhenlinien wie auf der Landeskarte rund um den Brienzersee. Feine Linie, kein Motiv.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 8,
+  "name": "Seespiegel",
+  "satz": "Kurze waagrechte Lichtstriche wie Sonne auf dem Wasser vor dem Haus.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 9,
+  "name": "Linien im Verlauf",
+  "satz": "Waagrechte Haarlinien, die enger und weiter werden. Ganz reduziert.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 10,
+  "name": "Raster",
+  "satz": "Ein Schweizer Raster aus Haarlinien, kleine Kreuze an den Knoten.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 11,
+  "name": "Fächer",
+  "satz": "Art-déco-Fächer aus feinen Bögen, Schuppe über Schuppe. Elegant ohne Ornament.",
+  "w": 360,
+  "h": 360
+ },
+ {
+  "n": 12,
+  "name": "Fischgrat",
+  "satz": "Fischgrat aus Haarlinien, wie ein Parkett in Linie.",
+  "w": 384,
+  "h": 384
+ },
+ {
+  "n": 13,
+  "name": "Wellenringe",
+  "satz": "Ringe im Wasser von wenigen Stellen aus, die sich überlagern und auslaufen.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 14,
+  "name": "Terrazzo",
+  "satz": "Ganz feiner Terrazzo, Splitter Ton in Ton. Wie ein Boden in der Halle, nur an der Wand.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 15,
+  "name": "Bouclé",
+  "satz": "Bouclé-Stoff mit kleinen Schlaufen, weich und tief.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 16,
+  "name": "Halbton",
+  "satz": "Punkte im Halbton, die in breiten Wellen grösser und kleiner werden.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 17,
+  "name": "Nadelstreifen",
+  "satz": "Doppelte Nadelstreifen auf Wollstoff, wie ein guter Anzug.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 18,
+  "name": "Bergkämme",
+  "satz": "Kämme der Berge über dem See als Linien hintereinander. Grafisch, modern.",
+  "w": 400,
+  "h": 400
+ },
+ {
+  "n": 19,
+  "name": "Steppung",
+  "satz": "Gesteppte Rauten wie gepolstertes Leder, mit feinem Stich in der Naht.",
+  "w": 384,
+  "h": 384
+ },
+ {
+  "n": 20,
+  "name": "Lamellen",
+  "satz": "Waagrechte Lamellen mit weichem Licht, wie die Storen vor den Zimmern.",
+  "w": 400,
+  "h": 400
+ }
+]

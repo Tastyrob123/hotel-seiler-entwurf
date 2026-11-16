@@ -1,0 +1,28 @@
+{
+ "name": "Hotel Seiler au Lac",
+ "ort": "Bönigen am Brienzersee",
+ "tel": "+41 33 828 90 90",
+ "mail": "hotel@seileraulac.ch",
+ "adresse": "Am Quai 3, 3806 Bönigen",
+ "zeiten": "Rezeption des Hauses",
+ "fahrplan": "jungfrau.ch/fahrplan und sbb.ch",
+ "kategorien": [],
+ "orte": [
+  [
+   "Bönigen am Brienzersee (568 m)",
+   46.687,
+   7.893
+  ],
+  [
+   "Harder Kulm (1322 m)",
+   46.697,
+   7.851
+  ],
+  [
+   "Jungfraujoch (3454 m)",
+   46.547,
+   7.985
+  ]
+ ],
+ "muster": "Frage: Habt ihr einen Fitnessraum?\nAntwort: Dazu steht nichts in meinen Unterlagen. Die Rezeption hilft Ihnen gerne weiter:\n- Telefon: +41 33 828 90 90\n- E-Mail: hotel@seileraulac.ch"
+}

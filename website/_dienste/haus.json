@@ -1,0 +1,7 @@
+{
+ "haus": "seiler",
+ "hotel": 10421,
+ "zimmer": {"116254": "classic-berg", "116252": "comfort", "116255": "einzel-see", "116249": "familie", "116250": "junior-suite", "116251": "superior"},
+ "orte": [["boenigen", "Bönigen am See", 46.6876, 7.8975], ["harder", "Harder Kulm", 46.7045, 7.8600]],
+ "klima": "klima_interlaken.json"
+}

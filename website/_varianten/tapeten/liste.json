@@ -1,0 +1,82 @@
+[
+ {
+  "n": 1,
+  "key": "storen",
+  "name": "Storen",
+  "satz": "Breite Streifen wie die Sonnenstoren über der Terrasse, im hellen Streifen das S.",
+  "w": 200,
+  "h": 360
+ },
+ {
+  "n": 2,
+  "key": "schuppen",
+  "name": "Schuppen",
+  "satz": "Fischschuppen für die Fischküche des Hauses. In jeder achten Schuppe liegt das S.",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "n": 3,
+  "key": "spalier",
+  "name": "Spalier",
+  "satz": "Ein Gartengitter aus Doppellinien, Rosetten an den Kreuzungen, das S in jeder zweiten Raute.",
+  "w": 192,
+  "h": 288
+ },
+ {
+  "n": 4,
+  "key": "vierpass",
+  "name": "Vierpass",
+  "satz": "Das Gitter der Gründerzeit, aus der das Caféhaus von 1873 stammt. S im Wechsel mit einer Rosette.",
+  "w": 240,
+  "h": 240
+ },
+ {
+  "n": 5,
+  "key": "monogramm",
+  "name": "Monogramm",
+  "satz": "Das S wie auf Hotelwäsche gestickt, im Versatz mit einem kleinen Stern. Das ruhigste der zehn.",
+  "w": 170,
+  "h": 170
+ },
+ {
+  "n": 6,
+  "key": "medaillon",
+  "name": "Medaillon",
+  "satz": "Ovale Rahmen wie auf der Ansichtskarte von 1910, darin das S, dazwischen feine Girlanden.",
+  "w": 220,
+  "h": 300
+ },
+ {
+  "n": 7,
+  "key": "schiff",
+  "name": "Kursschiff",
+  "satz": "Das Schiff, das vor dem Haus anlegt, und das S im Wechsel. Erzählt die Ländte, ohne laut zu werden.",
+  "w": 280,
+  "h": 200
+ },
+ {
+  "n": 8,
+  "key": "sonne",
+  "name": "Sonne",
+  "satz": "Ein Strahlenkranz um das S, für die Morgen- und die Abendsonne, mit der sich das Haus beschreibt.",
+  "w": 200,
+  "h": 200
+ },
+ {
+  "n": 9,
+  "key": "pilaster",
+  "name": "Pilaster",
+  "satz": "Schmale Felder wie die geschnitzten grünen Pilaster an der Fassade, mit Blattstab und dem S als Medaillon.",
+  "w": 150,
+  "h": 360
+ },
+ {
+  "n": 10,
+  "key": "kassetten",
+  "name": "Kassetten",
+  "satz": "Vertiefte Felder wie eine Holzdecke, in der Mitte das S oder eine Rosette. Passt zu den Kuhlen der Seite.",
+  "w": 240,
+  "h": 240
+ }
+]

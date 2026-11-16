@@ -1,0 +1,352 @@
+[
+ {
+  "runde": 5,
+  "n": 1,
+  "name": "Travertin",
+  "satz": "Gebänderter Stein mit kleinen Poren, wie ein Boden in einer Halle.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 2,
+  "name": "Marmor",
+  "satz": "Heller Marmor mit feinen Adern, kaum Bewegung.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 3,
+  "name": "Gebürstet",
+  "satz": "Waagrecht gebürstete Oberfläche wie Metall, mit weichem Glanz.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 4,
+  "name": "Wildleder",
+  "satz": "Matter Flor wie Wildleder, weich und dicht.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 5,
+  "name": "Japanpapier",
+  "satz": "Handgeschöpftes Papier mit langen, eingebetteten Fasern.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 6,
+  "name": "Sandstein",
+  "satz": "Feines Korn mit breiten, liegenden Schichten.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 7,
+  "name": "Eiche gekalkt",
+  "satz": "Liegende Eichenmaserung, hell gekalkt, mit offenen Poren.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 8,
+  "name": "Furnier",
+  "satz": "Stehendes Furnier mit geradem, ruhigem Holzbild.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 9,
+  "name": "Sichtbeton",
+  "satz": "Glatter Sichtbeton, wolkig, mit feinen Luftporen.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 10,
+  "name": "Satinstreifen",
+  "satz": "Breite Streifen, matt und glänzend im Wechsel, Ton in Ton.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 11,
+  "name": "Kannelur",
+  "satz": "Breite, tiefe Rillen wie an einer Säule.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 12,
+  "name": "Feine Rillen",
+  "satz": "Sehr feine senkrechte Rillen, fast wie Cord aus Gips.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 13,
+  "name": "Wellenpaneel",
+  "satz": "Sanft gewelltes Relief, waagrecht, wie eine gegossene Wand.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 14,
+  "name": "Tambour",
+  "satz": "Halbrunde Holzstäbe dicht nebeneinander, mit schmaler Fuge.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 15,
+  "name": "Riemchen",
+  "satz": "Lange, schmale Glasurfliesen im Verband, jede ein wenig anders im Ton.",
+  "w": 420
+ },
+ {
+  "runde": 5,
+  "n": 16,
+  "name": "Raster schräg",
+  "satz": "Diagonales Haarlinien-Raster, ruhig und präzise.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 17,
+  "name": "Punktraster",
+  "satz": "Winzige Punkte im genauen Raster, aus der Nähe erst zu sehen.",
+  "w": 384
+ },
+ {
+  "runde": 5,
+  "n": 18,
+  "name": "Kreuzschraffur",
+  "satz": "Gestochene Schraffur wie auf einem Kupferstich, dichter und lichter im Wechsel.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 19,
+  "name": "Guilloche",
+  "satz": "Ineinander laufende Wellenlinien wie auf einer Banknote.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 20,
+  "name": "Bögen",
+  "satz": "Ineinander gestellte Bögen in Reihen, wie Rundbogenfenster in Linie.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 21,
+  "name": "Wellenlinien",
+  "satz": "Parallele, sanft schwingende Haarlinien. Wie Wasser, ohne es zu zeigen.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 22,
+  "name": "Streifen im Verlauf",
+  "satz": "Senkrechte Streifen, die schmaler und breiter werden.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 23,
+  "name": "Plissee",
+  "satz": "Scharf gefalteter Stoff, Licht und Schatten im Wechsel.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 24,
+  "name": "Fischgrat-Tweed",
+  "satz": "Gewebtes Fischgrat wie ein Wollsakko, aus der Nähe Stoff.",
+  "w": 384
+ },
+ {
+  "runde": 5,
+  "n": 25,
+  "name": "Glencheck",
+  "satz": "Feines Glencheck-Karo Ton in Ton, wie ein Anzugstoff.",
+  "w": 384
+ },
+ {
+  "runde": 5,
+  "n": 26,
+  "name": "Cord",
+  "satz": "Breitcord mit weichen Rippen und etwas Glanz.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 27,
+  "name": "Samt",
+  "satz": "Gedrückter Samt, der das Licht in weichen Flecken fängt.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 28,
+  "name": "Kanalsteppung",
+  "satz": "Senkrechte, gepolsterte Kanäle mit Steppnaht.",
+  "w": 400
+ },
+ {
+  "runde": 5,
+  "n": 29,
+  "name": "Lochblech",
+  "satz": "Feines Lochblech im Versatz, kühl und architektonisch.",
+  "w": 384
+ },
+ {
+  "runde": 5,
+  "n": 30,
+  "name": "Rauten fein",
+  "satz": "Schlanke Rauten aus Haarlinien, hoch gestellt.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 1,
+  "name": "Leinen",
+  "satz": "Feines Leinen in Kette und Schuss. Ruhig, warm, sieht nach Stoff an der Wand aus.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 2,
+  "name": "Grastapete",
+  "satz": "Gewebte Gräser quer, feine Kettfäden senkrecht. Die klassische Wand guter Hotels.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 3,
+  "name": "Rohseide",
+  "satz": "Rohseide mit kleinen Verdickungen im Faden und weichem Glanz.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 4,
+  "name": "Kalkputz",
+  "satz": "Mineralischer Putz, leicht wolkig, ganz fein gekörnt. Fast keine Zeichnung, nur Tiefe.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 5,
+  "name": "Moiré",
+  "satz": "Seidenmoiré: wässrige Schlieren, die sich im Licht verschieben.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 6,
+  "name": "Rillen",
+  "satz": "Senkrechte Rillen im Relief, wie gefräste Holz- oder Gipsplatten. Modern, architektonisch.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 7,
+  "name": "Höhenlinien",
+  "satz": "Höhenlinien wie auf der Landeskarte rund um den Brienzersee. Feine Linie, kein Motiv.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 8,
+  "name": "Seespiegel",
+  "satz": "Kurze waagrechte Lichtstriche wie Sonne auf dem Wasser vor dem Haus.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 9,
+  "name": "Linien im Verlauf",
+  "satz": "Waagrechte Haarlinien, die enger und weiter werden. Ganz reduziert.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 10,
+  "name": "Raster",
+  "satz": "Ein Schweizer Raster aus Haarlinien, kleine Kreuze an den Knoten.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 11,
+  "name": "Fächer",
+  "satz": "Art-déco-Fächer aus feinen Bögen, Schuppe über Schuppe. Elegant ohne Ornament.",
+  "w": 360
+ },
+ {
+  "runde": 4,
+  "n": 12,
+  "name": "Fischgrat",
+  "satz": "Fischgrat aus Haarlinien, wie ein Parkett in Linie.",
+  "w": 384
+ },
+ {
+  "runde": 4,
+  "n": 13,
+  "name": "Wellenringe",
+  "satz": "Ringe im Wasser von wenigen Stellen aus, die sich überlagern und auslaufen.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 14,
+  "name": "Terrazzo",
+  "satz": "Ganz feiner Terrazzo, Splitter Ton in Ton. Wie ein Boden in der Halle, nur an der Wand.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 15,
+  "name": "Bouclé",
+  "satz": "Bouclé-Stoff mit kleinen Schlaufen, weich und tief.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 16,
+  "name": "Halbton",
+  "satz": "Punkte im Halbton, die in breiten Wellen grösser und kleiner werden.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 17,
+  "name": "Nadelstreifen",
+  "satz": "Doppelte Nadelstreifen auf Wollstoff, wie ein guter Anzug.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 18,
+  "name": "Bergkämme",
+  "satz": "Kämme der Berge über dem See als Linien hintereinander. Grafisch, modern.",
+  "w": 400
+ },
+ {
+  "runde": 4,
+  "n": 19,
+  "name": "Steppung",
+  "satz": "Gesteppte Rauten wie gepolstertes Leder, mit feinem Stich in der Naht.",
+  "w": 384
+ },
+ {
+  "runde": 4,
+  "n": 20,
+  "name": "Lamellen",
+  "satz": "Waagrechte Lamellen mit weichem Licht, wie die Storen vor den Zimmern.",
+  "w": 400
+ }
+]

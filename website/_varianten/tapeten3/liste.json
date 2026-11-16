@@ -1,0 +1,162 @@
+[
+ {
+  "n": 1,
+  "name": "Teppich La Gare",
+  "satz": "Die kleinen Streublüten aus dem Teppich im Seerestaurant, im Versatz.",
+  "foto": "lg-saal-1",
+  "w": 84,
+  "h": 84
+ },
+ {
+  "n": 2,
+  "name": "Teppich Salon Rouge",
+  "satz": "Das feine Rautennetz aus dem Teppich im Salon Rouge, ein Kreuz an jeder Ecke.",
+  "foto": "fe-salon-rouge",
+  "w": 72,
+  "h": 72
+ },
+ {
+  "n": 3,
+  "name": "Stuhlbezug",
+  "satz": "Die Blütenzweige vom Bezug der Stühle im La Gare: Rose, Mohn, Knospe und Laub.",
+  "foto": "lg-saal-2",
+  "w": 200,
+  "h": 230
+ },
+ {
+  "n": 4,
+  "name": "Paisley",
+  "satz": "Das grosse Paisley der Tagesdecken in den Zimmern, mit Blüte und Perlen.",
+  "foto": "z-paisley-1",
+  "w": 170,
+  "h": 200
+ },
+ {
+  "n": 5,
+  "name": "Paisley klein",
+  "satz": "Dasselbe Paisley klein und dicht, wie ein zweiter Stoff im Zimmer.",
+  "foto": "z-paisley-2",
+  "w": 120,
+  "h": 120
+ },
+ {
+  "n": 6,
+  "name": "Chintz",
+  "satz": "Die Blumenvorhänge der Comfortzimmer: grosser Mohn und Rosen mit Laub.",
+  "foto": "z-comfort-2",
+  "w": 210,
+  "h": 210
+ },
+ {
+  "n": 7,
+  "name": "Streublümchen",
+  "satz": "Kleine Blütenzweige kreuz und quer, wie die Vorhänge der Gartenzimmer.",
+  "foto": "z-einzel-garten-216",
+  "w": 150,
+  "h": 150
+ },
+ {
+  "n": 8,
+  "name": "Flammenstich",
+  "satz": "Die gestuften Zacken vom Vorhang im Salon, in Bändern.",
+  "foto": "ih-salon",
+  "w": 192,
+  "h": 168
+ },
+ {
+  "n": 9,
+  "name": "Blütenkreise",
+  "satz": "Die Kreise aus dem Teppich im Salon und in der Mini-Suite, als Blütenblätter.",
+  "foto": "ih-salon",
+  "w": 160,
+  "h": 160
+ },
+ {
+  "n": 10,
+  "name": "Raffgardine",
+  "satz": "Die gerafften Bögen vor den Fenstern im La Gare, mit Falten und Quaste.",
+  "foto": "lg-sicht-see",
+  "w": 120,
+  "h": 96
+ },
+ {
+  "n": 11,
+  "name": "Spitze",
+  "satz": "Die Spitzenvolants über den Saalfenstern: feines Netz mit gehäkelten Blüten.",
+  "foto": "lg-saal-2",
+  "w": 144,
+  "h": 144
+ },
+ {
+  "n": 12,
+  "name": "Täfer",
+  "satz": "Das Holztäfer des Saals als Rahmen und Füllung.",
+  "foto": "fe-saal",
+  "w": 150,
+  "h": 220
+ },
+ {
+  "n": 13,
+  "name": "Cosmea",
+  "satz": "Die gezeichneten Blumen auf den Badfliesen, in feiner Linie.",
+  "foto": "z-bad-dunkel",
+  "w": 240,
+  "h": 240
+ },
+ {
+  "n": 14,
+  "name": "Tupfen",
+  "satz": "Die getupfte Wand hinter den Tischen im La Gare.",
+  "foto": "lg-essen-2",
+  "w": 120,
+  "h": 120
+ },
+ {
+  "n": 15,
+  "name": "Hockerbezug",
+  "satz": "Das kleine Gitter aus runden Rauten vom Hocker in der Mini-Suite.",
+  "foto": "z-minisuite-3",
+  "w": 48,
+  "h": 64
+ },
+ {
+  "n": 16,
+  "name": "Tischwäsche",
+  "satz": "Die weisse Tischwäsche als Damast: Karos in zwei Webrichtungen.",
+  "foto": "fe-tafel",
+  "w": 128,
+  "h": 128
+ },
+ {
+  "n": 17,
+  "name": "Rosenstreifen",
+  "satz": "Zarte Streifen mit einem Rosenband, wie die Vorhänge der Mini-Suiten.",
+  "foto": "z-minisuite-2",
+  "w": 120,
+  "h": 260
+ },
+ {
+  "n": 18,
+  "name": "Holzbalkon",
+  "satz": "Die ausgesägten Bretter der alten Holzbalkone, Reihe über Reihe.",
+  "foto": "ge-hist-2",
+  "w": 144,
+  "h": 132
+ },
+ {
+  "n": 19,
+  "name": "Gardine",
+  "satz": "Die hellen Faltengardinen zum See, mit gestickten Pünktchen.",
+  "foto": "z-einzel-see-202",
+  "w": 96,
+  "h": 160
+ },
+ {
+  "n": 20,
+  "name": "Ansichtskarte 1910",
+  "satz": "Die alte Ansichtskarte als Toile: Chalet am Ufer, Tannen, Berge, das Kursschiff.",
+  "foto": "ge-1910",
+  "w": 240,
+  "h": 230
+ }
+]
