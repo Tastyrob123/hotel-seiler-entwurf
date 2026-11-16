@@ -1,0 +1,1729 @@
+{
+ "see-schiff-tag": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096473_b634225ad6278e06e7f5090b92fa924d_m.jpg"
+ },
+ "see-morgen": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8216,
+  "quelle_h": 5477,
+  "datei": "extern/myswitzerland/myswitzerland-00096488_f9815f40654af86ce625d22c2688f805_m.jpg"
+ },
+ "see-abend-gold": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096471_40b50bca50124dddcf42e14a3ba882af_m.jpg"
+ },
+ "see-sonnenuntergang": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4128,
+  "quelle_h": 2322,
+  "datei": "extern/myswitzerland/myswitzerland-00096467_9f1e1aa0108e355977dd273b1e834d91_m.jpg"
+ },
+ "see-laendte-daemmerung": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096472_16dfdff36bc08639d3d06917a8c33c34_m.jpg"
+ },
+ "see-baum-bank-schiff": {
+  "w": 2000,
+  "h": 1328,
+  "quelle_w": 4288,
+  "quelle_h": 2848,
+  "datei": "extern/myswitzerland/myswitzerland-00096462_49c8fa5b916f3ca46cd70a5dd12d2d81_m.jpg"
+ },
+ "see-regenbogen": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 6408,
+  "quelle_h": 4272,
+  "datei": "extern/myswitzerland/myswitzerland-00096468_1232b455422baad3e326310087f372de_m.jpg"
+ },
+ "see-winter-spiegel": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 3840,
+  "quelle_h": 2160,
+  "datei": "extern/myswitzerland/myswitzerland-00096470_1733406d55dd025a46fca14ea37badeb_m.jpg"
+ },
+ "see-schiff-blau": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7185,
+  "quelle_h": 4790,
+  "datei": "extern/myswitzerland/myswitzerland-00096491_6443062e511f319ffbf888377875a644_m.jpg"
+ },
+ "see-still": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 6974,
+  "quelle_h": 4649,
+  "datei": "extern/myswitzerland/myswitzerland-00096486_73087a1e3dd037775175b41b5c1abfa1_m.jpg"
+ },
+ "see-ufer": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7802,
+  "quelle_h": 5201,
+  "datei": "extern/myswitzerland/myswitzerland-00096476_d047db069e2e39964a0be16c85ea548b_m.jpg"
+ },
+ "see-baum-bank": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7887,
+  "quelle_h": 5258,
+  "datei": "extern/myswitzerland/myswitzerland-00096481_a2b97ec5abbcd2f9070d6153fa3845bd_m.jpg"
+ },
+ "see-schiff-blumen": {
+  "w": 1627,
+  "h": 1080,
+  "quelle_w": 1627,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-36910181.jpg"
+ },
+ "see-nacht-laterne": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641262354.jpg"
+ },
+ "see-laterne-velo": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641020072.jpg"
+ },
+ "see-geranien": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641020139.jpg"
+ },
+ "see-schiff-faehrt": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 6158,
+  "quelle_h": 4105,
+  "datei": "extern/myswitzerland/myswitzerland-00096475_6a3d8d1e865abb681ca08c50a89e6a65_m.jpg"
+ },
+ "see-steg": {
+  "w": 2000,
+  "h": 1342,
+  "quelle_w": 2528,
+  "quelle_h": 1696,
+  "datei": "extern/myswitzerland/myswitzerland-00096489_c28bdecdf99a79ec3503302f80ef55ed_m.jpg"
+ },
+ "haus-fahnen-see": {
+  "w": 2000,
+  "h": 1339,
+  "quelle_w": 3872,
+  "quelle_h": 2592,
+  "datei": "extern/myswitzerland/myswitzerland-00096369_1fb721016c8d47e3c55361b0a05bb56b_m.jpg"
+ },
+ "haus-fahnen": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096374_6673173a4750961e392170790474d5c7_m.jpg"
+ },
+ "haus-promenade": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096373_c2e6c5695b58da2d8dca26b867ce100c_m.jpg"
+ },
+ "haus-vom-wasser": {
+  "w": 2000,
+  "h": 1342,
+  "quelle_w": 2528,
+  "quelle_h": 1696,
+  "datei": "extern/myswitzerland/myswitzerland-00096371_ff4cb2b1d088a39232ec3e88834287f1_m.jpg"
+ },
+ "haus-vom-wasser-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096372_5976d47980eceb801b2adad94b2ed6b7_m.jpg"
+ },
+ "haus-ufer": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 3543,
+  "quelle_h": 2362,
+  "datei": "extern/myswitzerland/myswitzerland-00096367_808be4aae62edf05832b7f7c31c917e8_m.jpg"
+ },
+ "haus-eingang-daemmerung": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8103,
+  "quelle_h": 5402,
+  "datei": "extern/myswitzerland/myswitzerland-00096366_c18252f0304063ca06a5ad8cebfe729b_m.jpg"
+ },
+ "haus-terrasse-gaeste": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096533_209d2f2212d2d7fa02b417e5ee3f300f_m.jpg"
+ },
+ "haus-salon": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 6599,
+  "quelle_h": 4399,
+  "datei": "extern/myswitzerland/myswitzerland-00096365_29e0e0d133615764f8698ccd1cbc213a_m.jpg"
+ },
+ "haus-halle-blick": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641265565.jpg"
+ },
+ "haus-halle": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4342_Eingangshalle-B008_021.jpg"
+ },
+ "haus-balkon-mann": {
+  "w": 2000,
+  "h": 1342,
+  "quelle_w": 2528,
+  "quelle_h": 1696,
+  "datei": "extern/myswitzerland/myswitzerland-00096389_43b232e0edc2237de305d53049af2f61_m.jpg"
+ },
+ "haus-terrasse-service": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4528_seiler_au_lac_B008_121.jpeg"
+ },
+ "haus-terrasse-service-2": {
+  "w": 1004,
+  "h": 1367,
+  "quelle_w": 1004,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4529_seiler_au_lac_B008_113-e1738598350592.jpeg"
+ },
+ "haus-bus-haltestelle": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641019936.jpg"
+ },
+ "z-grau-1": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8098,
+  "quelle_h": 5399,
+  "datei": "extern/myswitzerland/myswitzerland-00096377_13fc22c85d3123742385d63a617d5789_m.jpg"
+ },
+ "z-grau-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 5798,
+  "quelle_h": 3865,
+  "datei": "extern/myswitzerland/myswitzerland-00096378_0bbe1fe077defa191ba69d5074c4d010_m.jpg"
+ },
+ "z-grau-3": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7138,
+  "quelle_h": 4758,
+  "datei": "extern/myswitzerland/myswitzerland-00096381_32ab65c4a7c07a689dc23cf5de5d4843_m.jpg"
+ },
+ "z-grau-4": {
+  "w": 2000,
+  "h": 1342,
+  "quelle_w": 2528,
+  "quelle_h": 1696,
+  "datei": "extern/myswitzerland/myswitzerland-00096386_d3345d8f2b4574eddc7908e39493c1d1_m.jpg"
+ },
+ "z-grau-5": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096387_f57c3e724f5006eeabb52eeb5dc08d21_m.jpg"
+ },
+ "z-grau-balkon": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096390_f44b72ec5d0f38a9ae9206905cb6f016_m.jpg"
+ },
+ "z-paisley-1": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096422_363d0229a212acddd2c5647ceb12121d_m.jpg"
+ },
+ "z-paisley-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096424_1b364edd412720af7d06675f78d8c600_m.jpg"
+ },
+ "z-paisley-3": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096425_1fda0bd8907cceb64088b772b1b884b2_m.jpg"
+ },
+ "z-minisuite-1": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 2050,
+  "quelle_h": 1366,
+  "datei": "website/mediathek/4805_Mini-Suite-102-B008_094.jpg"
+ },
+ "z-minisuite-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 2050,
+  "quelle_h": 1366,
+  "datei": "website/mediathek/4807_Mini-Suite-102-B008_038.jpg"
+ },
+ "z-minisuite-3": {
+  "w": 2000,
+  "h": 1378,
+  "quelle_w": 2050,
+  "quelle_h": 1412,
+  "datei": "website/mediathek/4812_Mini-Suite-103-B008_087.jpg"
+ },
+ "z-minisuite-bad": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4808_Mini-Suite-Bad-WC-103-B008_048.jpg"
+ },
+ "z-comfort-1": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4893_Comfortzimmer-1.jpg"
+ },
+ "z-comfort-2": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4892_Comfortzimmer-2.jpg"
+ },
+ "z-familie-1": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4900_Familienzimmer-1.jpg"
+ },
+ "z-familie-2": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4897_Familienzimmer-5.jpg"
+ },
+ "z-einzel-see-202": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/579_Einzel-See-202.jpg"
+ },
+ "z-einzel-see-208": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/584_Einzel-See-208.jpg"
+ },
+ "z-einzel-garten-216": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/511_Einzel-Garten-216.jpg"
+ },
+ "z-doppel-see-206": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/527_Doppel-See-206.jpg"
+ },
+ "z-doppel-see-210": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4798_4_Doppel-See-210-B008_165.jpg"
+ },
+ "z-doppel-see-214": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4795_4_Doppel-See-214-B008_171.jpg"
+ },
+ "z-doppel-garten-315": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/493_Doppel-garten-315-Chalet.jpg"
+ },
+ "z-doppel-see-chalet": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/538_Doppel-see-Chalet.jpg"
+ },
+ "z-rot-sessel": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641023179.jpg"
+ },
+ "z-blau-polster": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641025515.jpg"
+ },
+ "z-bad-dunkel": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7490,
+  "quelle_h": 4993,
+  "datei": "extern/myswitzerland/myswitzerland-00096434_d60e21298c13189d5064dc47494f0596_m.jpg"
+ },
+ "lg-saal-1": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8133,
+  "quelle_h": 5422,
+  "datei": "extern/myswitzerland/myswitzerland-00096418_3cccf646a91ec647d1cefd7e48215045_m.jpg"
+ },
+ "lg-saal-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7282,
+  "quelle_h": 4855,
+  "datei": "extern/myswitzerland/myswitzerland-00096419_1e58bd1a8dc2d7821139287a9b561cf1_m.jpg"
+ },
+ "lg-saal-3": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7995,
+  "quelle_h": 5330,
+  "datei": "extern/myswitzerland/myswitzerland-00096420_f3e3110959058009d688dcf0c0b7ce86_m.jpg"
+ },
+ "lg-saal-fenster": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096364_b3779d2330ae9859606c4a89f27e5053_m.jpg"
+ },
+ "lg-sicht-see": {
+  "w": 2000,
+  "h": 1321,
+  "quelle_w": 2000,
+  "quelle_h": 1321,
+  "datei": "website/mediathek/2878_ST-Restaurant-Sicht-see.jpg"
+ },
+ "lg-saal-terrasse": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4355_Saal-1-Terrasse-B008_0203.jpg"
+ },
+ "lg-tisch-fenster": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4359_Saal-2-Terrasse-B008_0202.jpg"
+ },
+ "lg-essen-1": {
+  "w": 2000,
+  "h": 1328,
+  "quelle_w": 4288,
+  "quelle_h": 2848,
+  "datei": "extern/myswitzerland/myswitzerland-00096443_25df2d47183fbfd7d5d1e98062be630a_m.jpg"
+ },
+ "lg-essen-2": {
+  "w": 2000,
+  "h": 1328,
+  "quelle_w": 4288,
+  "quelle_h": 2848,
+  "datei": "extern/myswitzerland/myswitzerland-00096444_95834e67366d735ebe2008f8c3541ddf_m.jpg"
+ },
+ "lg-essen-3": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096445_366f52840fe8102406b8216ff5a4597c_m.jpg"
+ },
+ "lg-essen-4": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096446_bf662415fe0ff6a17f5732ec31228c4a_m.jpg"
+ },
+ "lg-essen-5": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096447_b57d2597383fb1b5a1648a87cd8a1ce0_m.jpg"
+ },
+ "lg-essen-6": {
+  "w": 2000,
+  "h": 1328,
+  "quelle_w": 4288,
+  "quelle_h": 2848,
+  "datei": "extern/myswitzerland/myswitzerland-00096449_0fac96c92207b9da3e316c201cc13165_m.jpg"
+ },
+ "lg-essen-7": {
+  "w": 2000,
+  "h": 1328,
+  "quelle_w": 3859,
+  "quelle_h": 2563,
+  "datei": "extern/myswitzerland/myswitzerland-00096450_24e8931732e918c2d10b6c71d0c5f7c7_m.jpg"
+ },
+ "lg-essen-8": {
+  "w": 2000,
+  "h": 1328,
+  "quelle_w": 4288,
+  "quelle_h": 2848,
+  "datei": "extern/myswitzerland/myswitzerland-00096440_0f6cfa38fe5c80609bda9f5ac466b62d_m.jpg"
+ },
+ "lg-dessert": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 5312,
+  "quelle_h": 2988,
+  "datei": "extern/myswitzerland/myswitzerland-00096451_b800074e47d9de539454990107337027_m.jpg"
+ },
+ "lg-fischerpfanne": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 2048,
+  "quelle_h": 1152,
+  "datei": "extern/myswitzerland/myswitzerland-00096465_1ba50f146a362a202432a2ce5ae29b16_m.jpg"
+ },
+ "lg-teller": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096493_f16f39046d267b76a18a20d58216213b_m.jpg"
+ },
+ "lg-service": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096452_e8e1e9fa395a9fbe339808b3bcb7b4a4_m.jpg"
+ },
+ "bo-raum": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096362_6fe3f35bda1539415846d6d43db77268_m.jpg"
+ },
+ "bo-bar": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7950,
+  "quelle_h": 5300,
+  "datei": "extern/myswitzerland/myswitzerland-00096402_20e5e9d12621d177a000285d834132cd_m.jpg"
+ },
+ "bo-wein": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096403_db77bccb9de7196caa600ae92fdb26b1_m.jpg"
+ },
+ "bo-tisch": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7744,
+  "quelle_h": 5162,
+  "datei": "extern/myswitzerland/myswitzerland-00096404_ea1750d71e1f3de0aa5fdd04c895759f_m.jpg"
+ },
+ "bo-karte": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096405_98eea7e66a8f62b6934634481a257273_m.jpg"
+ },
+ "bo-fenster": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096406_3898c3966231f448c28f07472b6ecfa8_m.jpg"
+ },
+ "bo-teig": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7388,
+  "quelle_h": 4925,
+  "datei": "extern/myswitzerland/myswitzerland-00096407_e162f7192be79bf5a9658cd596cb3f23_m.jpg"
+ },
+ "bo-ofen": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096409_22f35a8a784f3c0e1bdf71fde6021100_m.jpg"
+ },
+ "bo-pizza-1": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096410_a93847d8c4896e6705e7b53ebcdb3946_m.jpg"
+ },
+ "bo-pizza-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096411_03e25f9d502d25669fafb207ede98626_m.jpg"
+ },
+ "bo-pizza-3": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7216,
+  "quelle_h": 4811,
+  "datei": "extern/myswitzerland/myswitzerland-00096412_e00068e0084610064c1f8f9add9fa500_m.jpg"
+ },
+ "bo-raum-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096361_5a36d02bf14ac99237b65a277e46fa65_m.jpg"
+ },
+ "bo-raum-3": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4213_Eingangshalle-B008_018.jpg"
+ },
+ "fe-seminar": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096460_4bd3d2d3f2fd53626155b3749c56cc1f_m.jpg"
+ },
+ "fe-team-tafel": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 2048,
+  "quelle_h": 1152,
+  "datei": "extern/myswitzerland/myswitzerland-00096463_869157be13be3723b402cb13a230f449_m.jpg"
+ },
+ "fe-tafel": {
+  "w": 1536,
+  "h": 864,
+  "quelle_w": 1536,
+  "quelle_h": 864,
+  "datei": "extern/myswitzerland/myswitzerland-00096464_2d611248151556c8e5170b28d022b07f_m.jpg"
+ },
+ "fe-salon-rouge": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4349_Salon-rouge-B008_080.jpg"
+ },
+ "fe-salon-rouge-2": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4350_Salon-rouge-B008_081.jpg"
+ },
+ "fe-seminar-rot": {
+  "w": 1250,
+  "h": 989,
+  "quelle_w": 1250,
+  "quelle_h": 989,
+  "datei": "website/mediathek/847_Hotel-158-2019-05-02-06-51-06b139.jpg"
+ },
+ "fe-seminar-2": {
+  "w": 547,
+  "h": 823,
+  "quelle_w": 547,
+  "quelle_h": 823,
+  "datei": "website/mediathek/857_Seminar2.jpg"
+ },
+ "fe-tafel-blau": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2048,
+  "quelle_h": 1536,
+  "datei": "website/mediathek/1093_Hotel-21-2006-06-20-11-00-06b139.jpg"
+ },
+ "fe-saal": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4361_Saal-B008_0201.jpg"
+ },
+ "fe-saal-2": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4360_Saal-B008_0200.jpg"
+ },
+ "ih-billard": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7877,
+  "quelle_h": 5251,
+  "datei": "extern/myswitzerland/myswitzerland-00096400_20cfd0631adb564d2cbbcaf1dcc986b7_m.jpg"
+ },
+ "ih-billard-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096399_ad1130cd7b8c6793852e855ebb13c536_m.jpg"
+ },
+ "ih-massage-1": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096414_e25d5f6e052188085189b1dcd05e1a17_m.jpg"
+ },
+ "ih-massage-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7901,
+  "quelle_h": 5267,
+  "datei": "extern/myswitzerland/myswitzerland-00096415_a20d89156a65e22136f8f8f96e2c43ca_m.jpg"
+ },
+ "ih-massage-3": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7372,
+  "quelle_h": 4915,
+  "datei": "extern/myswitzerland/myswitzerland-00096417_661189595ec30745c777499e122c620e_m.jpg"
+ },
+ "ih-salon": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7660,
+  "quelle_h": 5107,
+  "datei": "extern/myswitzerland/myswitzerland-00096398_e0e74ce68b5e2d178e3d498e9a651e4a_m.jpg"
+ },
+ "ih-salon-2": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4347_seiler_au_lac_B008_101.jpg"
+ },
+ "ih-terrasse": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641022241.jpg"
+ },
+ "dr-kajak": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5316_kanu.jpg"
+ },
+ "dr-jetboat": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 2000,
+  "quelle_h": 1333,
+  "datei": "website/mediathek/5317_jetboat.jpg"
+ },
+ "dr-jetboat-2": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5318_jetboat-1.jpg"
+ },
+ "dr-jetboat-winter": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5319_jetboat-winter-1.jpg"
+ },
+ "dr-raclette-rafting": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5320_raclette-rafting-1.jpg"
+ },
+ "dr-raclette-rafting-2": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5328_raclette-rafting-2.jpg"
+ },
+ "dr-schoggi-float": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5321_Chocolate-Fondue-Float-1.jpg"
+ },
+ "dr-schoggi-float-2": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5326_Chocolate-Fondue-Float-2.jpg"
+ },
+ "dr-kajak-2": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2000,
+  "quelle_h": 1500,
+  "datei": "website/mediathek/5332_jetboat-2.jpg"
+ },
+ "dr-ballenberg": {
+  "w": 999,
+  "h": 663,
+  "quelle_w": 999,
+  "quelle_h": 663,
+  "datei": "website/mediathek/4647_Ballenberg.jpg"
+ },
+ "dr-truemmelbach": {
+  "w": 1280,
+  "h": 850,
+  "quelle_w": 1280,
+  "quelle_h": 850,
+  "datei": "website/mediathek/4655_Truemmelbachfaelle.jpg"
+ },
+ "dr-beatus": {
+  "w": 1280,
+  "h": 851,
+  "quelle_w": 1280,
+  "quelle_h": 851,
+  "datei": "website/mediathek/4658_Beatushoehlen.jpg"
+ },
+ "dr-schynige": {
+  "w": 650,
+  "h": 365,
+  "quelle_w": 650,
+  "quelle_h": 365,
+  "datei": "website/mediathek/4660_SchynigePlatte.jpg"
+ },
+ "dr-rothorn": {
+  "w": 1280,
+  "h": 853,
+  "quelle_w": 1280,
+  "quelle_h": 853,
+  "datei": "website/mediathek/4662_Brienz_Rothorn_Bahn.jpg"
+ },
+ "dr-harder": {
+  "w": 1280,
+  "h": 960,
+  "quelle_w": 1280,
+  "quelle_h": 960,
+  "datei": "website/mediathek/4663_Harder_Kulm.jpg"
+ },
+ "dr-luetschine": {
+  "w": 1280,
+  "h": 960,
+  "quelle_w": 1280,
+  "quelle_h": 960,
+  "datei": "website/mediathek/4664_Luetschine.jpg"
+ },
+ "dr-boenigen-luft": {
+  "w": 1280,
+  "h": 837,
+  "quelle_w": 1280,
+  "quelle_h": 837,
+  "datei": "website/mediathek/4666_Boenigen_and_Ringgenberg.jpg"
+ },
+ "dr-luftbild": {
+  "w": 800,
+  "h": 494,
+  "quelle_w": 800,
+  "quelle_h": 494,
+  "datei": "extern/myswitzerland/myswitzerland-00096461_edf1bd8849a7aae4febc4d5259f56545_m.jpg"
+ },
+ "dr-paragliding": {
+  "w": 1920,
+  "h": 1280,
+  "quelle_w": 1920,
+  "quelle_h": 1280,
+  "datei": "website/mediathek/4667_paragliding-4511649_1920.jpg"
+ },
+ "ge-1910": {
+  "w": 2000,
+  "h": 1367,
+  "quelle_w": 2000,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/824_hotel_seiler_au_lac_1910-neu.jpg"
+ },
+ "ge-hist-1": {
+  "w": 1500,
+  "h": 1028,
+  "quelle_w": 1500,
+  "quelle_h": 1028,
+  "datei": "website/mediathek/4585_hist-1.jpg"
+ },
+ "ge-hist-2": {
+  "w": 1500,
+  "h": 1028,
+  "quelle_w": 1500,
+  "quelle_h": 1028,
+  "datei": "website/mediathek/4590_hist-2.jpg"
+ },
+ "ge-hist-3": {
+  "w": 1500,
+  "h": 1028,
+  "quelle_w": 1500,
+  "quelle_h": 1028,
+  "datei": "website/mediathek/4589_hist-3.jpg"
+ },
+ "ge-hist-4": {
+  "w": 1500,
+  "h": 1028,
+  "quelle_w": 1500,
+  "quelle_h": 1028,
+  "datei": "website/mediathek/4588_hist-4.jpg"
+ },
+ "ge-hist-5": {
+  "w": 1500,
+  "h": 1028,
+  "quelle_w": 1500,
+  "quelle_h": 1028,
+  "datei": "website/mediathek/4587_hist-5.jpg"
+ },
+ "ge-hist-6": {
+  "w": 1500,
+  "h": 1028,
+  "quelle_w": 1500,
+  "quelle_h": 1028,
+  "datei": "website/mediathek/4586_hist-6.jpg"
+ },
+ "ge-1960": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2048,
+  "quelle_h": 1536,
+  "datei": "website/mediathek/834_KICX0942.jpg"
+ },
+ "ge-saal-alt": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2048,
+  "quelle_h": 1536,
+  "datei": "website/mediathek/835_KICX0945.jpg"
+ },
+ "ge-umbau-1": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2048,
+  "quelle_h": 1536,
+  "datei": "website/mediathek/836_KICX0954.jpg"
+ },
+ "ge-umbau-2": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 2048,
+  "quelle_h": 1536,
+  "datei": "website/mediathek/837_KICX0955.jpg"
+ },
+ "wi-haus": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096457_9d9e5c0f1c5a8ee2268307a4cb8d5f51_m.jpg"
+ },
+ "wi-garten": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096458_2e3e0ad596784d583bf040fbebe5fca7_m.jpg"
+ },
+ "wi-baum": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 4032,
+  "quelle_h": 2268,
+  "datei": "extern/myswitzerland/myswitzerland-00096459_e67219f4f298c60557b25c378f5f3d4e_m.jpg"
+ },
+ "wi-ski": {
+  "w": 510,
+  "h": 790,
+  "quelle_w": 510,
+  "quelle_h": 790,
+  "datei": "website/mediathek/6009_seiler-skipiste-e1770830380753.png"
+ },
+ "hero-l": {
+  "w": 2528,
+  "h": 1685,
+  "quelle_w": 2528,
+  "quelle_h": 1685,
+  "datei": ""
+ },
+ "hero-m": {
+  "w": 1600,
+  "h": 1067,
+  "quelle_w": 1600,
+  "quelle_h": 1067,
+  "datei": ""
+ },
+ "hero-s": {
+  "w": 1000,
+  "h": 667,
+  "quelle_w": 1000,
+  "quelle_h": 667,
+  "datei": ""
+ },
+ "hero-hoch": {
+  "w": 1000,
+  "h": 1250,
+  "quelle_w": 1000,
+  "quelle_h": 1250,
+  "datei": ""
+ },
+ "fenster-laendte": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-laendte-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "fenster-abend": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-abend-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "fenster-steg": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-steg-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "fenster-bank": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-bank-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "fenster-haus": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-haus-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "fenster-still": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-still-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "fenster-saal": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-saal-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "fenster-sonne": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-sonne-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "sk-schluss": {
+  "w": 1620,
+  "h": 742,
+  "quelle_w": 1620,
+  "quelle_h": 742,
+  "datei": ""
+ },
+ "sk-recht": {
+  "w": 2400,
+  "h": 1100,
+  "quelle_w": 2400,
+  "quelle_h": 1100,
+  "datei": ""
+ },
+ "z-eg-116": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 2500,
+  "quelle_h": 1406,
+  "datei": "website/mediathek/333_Einzel-Garten-116-2500.jpg"
+ },
+ "z-eg-216-2": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/509_Einzel-Garten-216-2.jpg"
+ },
+ "z-eg-216-3": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/510_Einzel-Garten-216-3.jpg"
+ },
+ "z-es-202-w": {
+  "w": 2000,
+  "h": 1125,
+  "quelle_w": 2500,
+  "quelle_h": 1406,
+  "datei": "website/mediathek/320_Einzel-See-202-2500.jpg"
+ },
+ "z-es-202-2": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/512_Einzel-See-202-2.jpg"
+ },
+ "z-es-202-5": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/578_Einzel-See-202-5.jpg"
+ },
+ "z-es-208-2": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/580_Einzel-See-208-2.jpg"
+ },
+ "z-es-208-3": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/581_Einzel-See-208-3.jpg"
+ },
+ "z-es-st": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 2000,
+  "quelle_h": 1333,
+  "datei": "website/mediathek/2875_ST-Einzel-See.jpg"
+ },
+ "z-cb-315-w": {
+  "w": 2000,
+  "h": 1329,
+  "quelle_w": 2499,
+  "quelle_h": 1660,
+  "datei": "website/mediathek/328_Doppel-Garten-315-weit-2500.jpg"
+ },
+ "z-cb-315-2": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/489_Doppel-garten-315-Chalet-2.jpg"
+ },
+ "z-cb-315-3": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/490_Doppel-garten-315-Chalet-3.jpg"
+ },
+ "z-cb-315-4": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/491_Doppel-garten-315-Chalet-4.jpg"
+ },
+ "z-cb-224": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/488_Doppel-Garten-224.jpg"
+ },
+ "z-cs-210-w": {
+  "w": 2000,
+  "h": 1329,
+  "quelle_w": 2499,
+  "quelle_h": 1660,
+  "datei": "website/mediathek/312_Doppel-See-210-weit-2500.jpg"
+ },
+ "z-cs-220-w": {
+  "w": 2000,
+  "h": 1328,
+  "quelle_w": 2560,
+  "quelle_h": 1700,
+  "datei": "website/mediathek/311_Doppel-See-220-weit-scaled.jpg"
+ },
+ "z-cs-210-169": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4801_4_Doppel-See-210-B008_169.jpg"
+ },
+ "z-cs-210-167": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4803_4_Doppel-See-210-B008_167.jpg"
+ },
+ "z-cs-ch210": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/533_Doppel-See-Chalet-210.jpg"
+ },
+ "z-cs-ch314": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/536_Doppel-See-Chalet-314.jpg"
+ },
+ "z-comfort-3": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4891_Comfortzimmer-3.jpg"
+ },
+ "z-familie-3": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4895_Familienzimmer-7.jpg"
+ },
+ "z-familie-4": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4896_Familienzimmer-6.jpg"
+ },
+ "z-familie-5": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4898_Familienzimmer-3.jpg"
+ },
+ "z-sup-214-2": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4799_4_Doppel-See-214-.jpg"
+ },
+ "z-sup-214-3": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4802_4_Doppel-See-214-B008_173.jpg"
+ },
+ "z-sup-206-2": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 2050,
+  "quelle_h": 1366,
+  "datei": "website/mediathek/4797_4_Doppel-See-206-B008_150.jpg"
+ },
+ "z-sup-chalet-2": {
+  "w": 1500,
+  "h": 1002,
+  "quelle_w": 1500,
+  "quelle_h": 1002,
+  "datei": "website/mediathek/528_Doppel-see-Chalet-2.jpg"
+ },
+ "z-sup-chalet-3": {
+  "w": 1500,
+  "h": 1000,
+  "quelle_w": 1500,
+  "quelle_h": 1000,
+  "datei": "website/mediathek/529_Doppel-see-Chalet-3.jpg"
+ },
+ "z-js-102-92": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4811_Mini-Suite-102-B008_092.jpg"
+ },
+ "z-js-102-40": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4810_Mini-Suite-102-B008_040.jpg"
+ },
+ "z-js-103-89": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4813_Mini-Suite-103-B008_089.jpg"
+ },
+ "z-js-102-39": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4806_Mini-Suite-102-B008_039.jpg"
+ },
+ "z-js-see": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2560,
+  "quelle_h": 1707,
+  "datei": "website/mediathek/272_minisuitesee-scaled.jpg"
+ },
+ "tapete-dunkel": {
+  "w": 1100,
+  "h": 640,
+  "quelle_w": 1100,
+  "quelle_h": 640,
+  "datei": ""
+ },
+ "tapete-hell": {
+  "w": 1100,
+  "h": 640,
+  "quelle_w": 1100,
+  "quelle_h": 640,
+  "datei": ""
+ },
+ "fenster-mittag": {
+  "w": 2560,
+  "h": 1600,
+  "quelle_w": 2560,
+  "quelle_h": 1600,
+  "datei": ""
+ },
+ "fenster-mittag-s": {
+  "w": 1200,
+  "h": 750,
+  "quelle_w": 1200,
+  "quelle_h": 750,
+  "datei": ""
+ },
+ "tag-fruehstueck": {
+  "w": 2000,
+  "h": 1334,
+  "quelle_w": 2050,
+  "quelle_h": 1367,
+  "datei": "website/mediathek/4362_Saal-B008_0205.jpg"
+ },
+ "tag-schiff": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7836,
+  "quelle_h": 5224,
+  "datei": "extern/myswitzerland/myswitzerland-00096485_0bbc9f14f33accf5141c0d51c1ac275e_m.jpg"
+ },
+ "tag-nacht": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 2000,
+  "quelle_h": 1333,
+  "datei": "website/mediathek/1551_seiler_au_lac_B008_0183_small-2000.jpg"
+ },
+ "fuss-gbr": {
+  "w": 2000,
+  "h": 1500,
+  "datei": "Grand Beau-Rivage, haus-fluss (Schwesterhaus)"
+ },
+ "zp-01": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096391_5c82eded6d1472bee86bdae0c61a92f0_m.jpg"
+ },
+ "zp-02": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7272,
+  "quelle_h": 4848,
+  "datei": "extern/myswitzerland/myswitzerland-00096392_2e58a29723cd8ecc333299382becf437_m.jpg"
+ },
+ "zp-03": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7549,
+  "quelle_h": 5033,
+  "datei": "extern/myswitzerland/myswitzerland-00096393_0ed8a78f7e934d4a02a0930a74ae18d0_m.jpg"
+ },
+ "zp-04": {
+  "w": 2000,
+  "h": 1377,
+  "quelle_w": 7992,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096395_799c76f6d906a716cc6f355de41b47ff_m.jpg"
+ },
+ "zp-05": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8111,
+  "quelle_h": 5407,
+  "datei": "extern/myswitzerland/myswitzerland-00096397_5089aa84f6ac70591de0aee7859f7cc4_m.jpg"
+ },
+ "zp-06": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7660,
+  "quelle_h": 5107,
+  "datei": "extern/myswitzerland/myswitzerland-00096398_e0e74ce68b5e2d178e3d498e9a651e4a_m.jpg"
+ },
+ "zp-07": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7996,
+  "quelle_h": 5331,
+  "datei": "extern/myswitzerland/myswitzerland-00096386_d3345d8f2b4574eddc7908e39493c1d1_m.jpg"
+ },
+ "zp-08": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7084,
+  "quelle_h": 4722,
+  "datei": "extern/myswitzerland/myswitzerland-00096389_43b232e0edc2237de305d53049af2f61_m.jpg"
+ },
+ "zp-09": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7993,
+  "quelle_h": 5329,
+  "datei": "extern/myswitzerland/myswitzerland-00096375_471f49be8e09bdebce943c47c6d20324_m.jpg"
+ },
+ "zp-10": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8219,
+  "quelle_h": 5479,
+  "datei": "extern/myswitzerland/myswitzerland-00096376_3efb9a64dbaa8e6af12594e301488585_m.jpg"
+ },
+ "zp-11": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8098,
+  "quelle_h": 5399,
+  "datei": "extern/myswitzerland/myswitzerland-00096377_13fc22c85d3123742385d63a617d5789_m.jpg"
+ },
+ "zp-12": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 5798,
+  "quelle_h": 3865,
+  "datei": "extern/myswitzerland/myswitzerland-00096378_0bbe1fe077defa191ba69d5074c4d010_m.jpg"
+ },
+ "zp-13": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8175,
+  "quelle_h": 5450,
+  "datei": "extern/myswitzerland/myswitzerland-00096379_9b751b1fd695e45b884ca0811bf3fafe_m.jpg"
+ },
+ "zp-14": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096380_3a5715e4e5a858c5b6d8a72f861b7c58_m.jpg"
+ },
+ "zp-15": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7138,
+  "quelle_h": 4758,
+  "datei": "extern/myswitzerland/myswitzerland-00096381_32ab65c4a7c07a689dc23cf5de5d4843_m.jpg"
+ },
+ "zp-16": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096387_f57c3e724f5006eeabb52eeb5dc08d21_m.jpg"
+ },
+ "zp-17": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096388_74914c393ebc48cee06189a10ae61292_m.jpg"
+ },
+ "zp-18": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096390_f44b72ec5d0f38a9ae9206905cb6f016_m.jpg"
+ },
+ "zp-19": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096422_363d0229a212acddd2c5647ceb12121d_m.jpg"
+ },
+ "zp-20": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096423_fd060ca9fff88b0e4853465914472c43_m.jpg"
+ },
+ "zp-21": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096424_1b364edd412720af7d06675f78d8c600_m.jpg"
+ },
+ "zp-22": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096425_1fda0bd8907cceb64088b772b1b884b2_m.jpg"
+ },
+ "zp-23": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8184,
+  "quelle_h": 5456,
+  "datei": "extern/myswitzerland/myswitzerland-00096427_0b6efb8d3a3b3e3eae569f5ae35f2414_m.jpg"
+ },
+ "zp-24": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096428_5050ff309c230deb490199db619e9757_m.jpg"
+ },
+ "zp-25": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096429_54c3544bf201e745023f8e8e912017cf_m.jpg"
+ },
+ "zp-26": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 6632,
+  "quelle_h": 4421,
+  "datei": "extern/myswitzerland/myswitzerland-00096431_c6c6db5a82f7290f66f08c62c8fe1874_m.jpg"
+ },
+ "zp-27": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7798,
+  "quelle_h": 5199,
+  "datei": "extern/myswitzerland/myswitzerland-00096432_33a3191c5747c726aaaf45c533f8944c_m.jpg"
+ },
+ "zp-28": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8087,
+  "quelle_h": 5391,
+  "datei": "extern/myswitzerland/myswitzerland-00096433_0616901d4b3ead36bb2b31d1fe83a580_m.jpg"
+ },
+ "zp-29": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096435_632a24c8360fc58b8aca9ffbecb4f488_m.jpg"
+ },
+ "zp-30": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096436_99ee697eaa4735d8d72905a9df1504a5_m.jpg"
+ },
+ "zp-31": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 8256,
+  "quelle_h": 5504,
+  "datei": "extern/myswitzerland/myswitzerland-00096437_d0a1674c51fc698ddae1e28b587d5c4f_m.jpg"
+ },
+ "zp-32": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 5959,
+  "quelle_h": 3973,
+  "datei": "extern/myswitzerland/myswitzerland-00096438_6867be3c1fc3d3695e34b4795faa304e_m.jpg"
+ },
+ "zp-33": {
+  "w": 2000,
+  "h": 1333,
+  "quelle_w": 7866,
+  "quelle_h": 5244,
+  "datei": "extern/myswitzerland/myswitzerland-00096439_845dd943a74daa5871452ab263e8d4f7_m.jpg"
+ },
+ "zp-34": {
+  "w": 2000,
+  "h": 1500,
+  "quelle_w": 3264,
+  "quelle_h": 2448,
+  "datei": "extern/myswitzerland/myswitzerland-00025172_m.jpg"
+ },
+ "zp-35": {
+  "w": 720,
+  "h": 1080,
+  "quelle_w": 720,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641023782.jpg"
+ },
+ "zp-36": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641241190.jpg"
+ },
+ "zp-37": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641262164.jpg"
+ },
+ "zp-38": {
+  "w": 1620,
+  "h": 1080,
+  "quelle_w": 1620,
+  "quelle_h": 1080,
+  "datei": "extern/booking/booking-641262251.jpg"
+ }
+}

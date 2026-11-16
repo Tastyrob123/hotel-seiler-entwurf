@@ -1,0 +1,186 @@
+{
+ "druck": [
+  {
+   "id": "fahrplan",
+   "name": "Fahrplan-Karte",
+   "format": "A6 quer, 148 × 105 mm, zweiseitig",
+   "vorschau": [
+    [
+     "fahrplan",
+     1
+    ],
+    [
+     "fahrplan-r",
+     2
+    ]
+   ],
+   "satz": "Eine Karte für die Ländte: das erste und das letzte Schiff, das Postauto nach Interlaken und die Rezeption, hinten der Weg zu Ihnen mit Bahn, Schiff und Auto. Die Zeiten stammen aus Ihrer Gäste-Information und von Ihrer Website.",
+   "quelle": "Gäste-Information 2023, Website («Lage & Anfahrt», «Mit dem Schiff auf den Brienzersee»)",
+   "seiten": 2
+  },
+  {
+   "id": "tageskarte",
+   "name": "Ihr Tag im Seiler",
+   "format": "A6 quer, 148 × 105 mm, zweiseitig",
+   "vorschau": [
+    [
+     "tageskarte",
+     1
+    ],
+    [
+     "tageskarte-r",
+     2
+    ]
+   ],
+   "satz": "Die Zeiten des Hauses auf einer Karte fürs Zimmer: Check-in und Check-out, Frühstück, Zimmerreinigung, Zimmerservice und Rezeption, hinten die beiden Restaurants.",
+   "quelle": "Gäste-Information 2023, Website («Restaurants»)",
+   "seiten": 2
+  },
+  {
+   "id": "lunchpaket",
+   "name": "Lunchpaket-Karte",
+   "format": "A7 hoch, 74 × 105 mm, zweiseitig",
+   "vorschau": [
+    [
+     "lunchpaket",
+     1
+    ],
+    [
+     "lunchpaket-r",
+     2
+    ]
+   ],
+   "satz": "Wer vor dem Frühstück auf den Berg will, bestellt am Vorabend ein Lunchpaket. Die Karte liegt im Zimmer, der Gast füllt sie aus und gibt sie bis 20.00 Uhr an der Rezeption ab.",
+   "quelle": "Gäste-Information 2023 («Lunchpaket zum Mitnehmen»)",
+   "seiten": 2
+  },
+  {
+   "id": "mappe-karte",
+   "name": "Karte zur Zimmermappe",
+   "format": "A7 quer, 105 × 74 mm, zweiseitig",
+   "vorschau": [
+    [
+     "mappe-karte",
+     1
+    ],
+    [
+     "mappe-karte-r",
+     2
+    ]
+   ],
+   "satz": "Die Karte auf dem Nachttisch: Der Gast scannt den Code und hat die Rezeption im Chat auf seinem Handy, als Zimmermappe. Im Entwurf zeigt der Code auf die lokale Fassung; online bekommt er die echte Adresse.",
+   "quelle": "Rezeption im Chat des Entwurfs",
+   "seiten": 2
+  }
+ ],
+ "etiketten": [
+  {
+   "id": "b01",
+   "b": 120,
+   "h": 56,
+   "name": "Interlaken – Bönigen",
+   "satz": "Der Weg zu Ihnen, mit dem Bus Nr. 103 bis vor die Tür.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b02",
+   "b": 120,
+   "h": 56,
+   "name": "Bönigen – Brienz",
+   "satz": "Mit dem Schiff über den ganzen See, ab der Ländte vor dem Haus.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b03",
+   "b": 120,
+   "h": 56,
+   "name": "Bönigen – Iseltwald",
+   "satz": "Die kurze Fahrt ans andere Ufer, danach zu Fuss nach Giessbach.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b04",
+   "b": 120,
+   "h": 56,
+   "name": "Bönigen – Giessbach",
+   "satz": "Zu den Giessbachfällen, mit dem Schiff oder mit dem Jetboot.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b05",
+   "b": 120,
+   "h": 56,
+   "name": "Harder Kulm",
+   "satz": "Interlakens Hausberg, mit Blick auf Eiger, Mönch, Jungfrau und beide Seen.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b06",
+   "b": 120,
+   "h": 56,
+   "name": "Schynige Platte",
+   "satz": "Hinauf in den Alpengarten, von Ende Mai bis Mitte September.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b07",
+   "b": 120,
+   "h": 56,
+   "name": "Brienzer Rothorn",
+   "satz": "Mit Stampfen und Schnaufen auf den Gipfel, über 100 Berge im Blick.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b08",
+   "b": 120,
+   "h": 56,
+   "name": "Ballenberg",
+   "satz": "Die Schweiz an einem Tag, mit Streichelgehege und Zauberwald.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b09",
+   "b": 120,
+   "h": 56,
+   "name": "Morgensonne",
+   "satz": "Für alle, die zur Seeseite geschlafen haben.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b10",
+   "b": 120,
+   "h": 56,
+   "name": "Abendsonne",
+   "satz": "Für alle, die zur Bergseite geschlafen haben.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b11",
+   "b": 120,
+   "h": 56,
+   "name": "La Gare",
+   "satz": "Der Tisch am See, wo einmal der Bahnhof war.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  },
+  {
+   "id": "b12",
+   "b": 120,
+   "h": 56,
+   "name": "La Bohème",
+   "satz": "Holzdecken, Ofen und Bar, gleich neben dem Haus.",
+   "form": "M3 1H81A3 3 0 0 0 87 1H117A2 2 0 0 1 119 3V53A2 2 0 0 1 117 55H87A3 3 0 0 0 81 55H3A2 2 0 0 1 1 53V3A2 2 0 0 1 3 1Z"
+  }
+ ],
+ "boegen": 1,
+ "meins": [
+  "Auf der Fahrplan-Karte: die Titel «Ab Bönigen» und «Vor dem Haus»; Zeiten und Wege stammen aus Ihrer Gäste-Information und von Ihrer Website",
+  "Auf der Karte «Ihr Tag im Seiler»: die Zeilen-Titel; die Zeiten stammen aus Ihrer Gäste-Information und von Ihrer Website",
+  "Auf der Lunchpaket-Karte: die Felder zum Ankreuzen und Eintragen",
+  "Auf der Karte zur Zimmermappe: alle Sätze",
+  "Die Ziele auf den Billetten sind Orte von Ihrer Seite «Vor der Tür»; die Zeilen dazu sind von mir"
+ ],
+ "masse": [
+  56,
+  120
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "druck": [
+  {
+   "id": "fahrplan",
+   "name": "Fahrplan-Karte",
+   "seiten": 2
+  },
+  {
+   "id": "tageskarte",
+   "name": "Ihr Tag im Seiler",
+   "seiten": 2
+  },
+  {
+   "id": "lunchpaket",
+   "name": "Lunchpaket-Karte",
+   "seiten": 2
+  },
+  {
+   "id": "mappe-karte",
+   "name": "Karte zur Zimmermappe",
+   "seiten": 2
+  },
+  {
+   "id": "ansichtskarten",
+   "name": "Ansichtskarten",
+   "seiten": 5
+  },
+  {
+   "id": "briefpapier",
+   "name": "Briefpapier und Couvert",
+   "seiten": 2
+  },
+  {
+   "id": "willkommen",
+   "name": "Willkommenskarte",
+   "seiten": 2
+  },
+  {
+   "id": "tuerhaenger",
+   "name": "Türhänger",
+   "seiten": 2
+  },
+  {
+   "id": "gutschein",
+   "name": "Gutschein",
+   "seiten": 2
+  },
+  {
+   "id": "geschichte",
+   "name": "Blatt zur Geschichte des Hauses",
+   "seiten": 1
+  },
+  {
+   "id": "untersetzer",
+   "name": "Untersetzer",
+   "seiten": 2
+  },
+  {
+   "id": "tischset",
+   "name": "Tischset",
+   "seiten": 1
+  },
+  {
+   "id": "rechnungsmappe",
+   "name": "Rechnungsmappe",
+   "seiten": 2
+  },
+  {
+   "id": "reserviert",
+   "name": "Reserviert-Aufsteller",
+   "seiten": 2
+  },
+  {
+   "id": "kissen",
+   "name": "Kissenkarte",
+   "seiten": 1
+  },
+  {
+   "id": "hunde",
+   "name": "Karte für Gäste mit Hund",
+   "seiten": 2
+  },
+  {
+   "id": "waesche",
+   "name": "Wäscheliste",
+   "seiten": 1
+  },
+  {
+   "id": "parkkarte",
+   "name": "Parkkarte",
+   "seiten": 1
+  },
+  {
+   "id": "spatermin",
+   "name": "Terminkarte fürs Spa",
+   "seiten": 2
+  },
+  {
+   "id": "tagung",
+   "name": "Tischreiter und Namensschild für Tagungen",
+   "seiten": 2
+  },
+  {
+   "id": "willkommenstafel",
+   "name": "Willkommenstafel für Anlässe",
+   "seiten": 1
+  },
+  {
+   "id": "gepaeck",
+   "name": "Gepäckanhänger",
+   "seiten": 2
+  }
+ ],
+ "etiketten": [
+  {
+   "id": "b01",
+   "name": "Interlaken – Bönigen"
+  },
+  {
+   "id": "b02",
+   "name": "Bönigen – Brienz"
+  },
+  {
+   "id": "b03",
+   "name": "Bönigen – Iseltwald"
+  },
+  {
+   "id": "b04",
+   "name": "Bönigen – Giessbach"
+  },
+  {
+   "id": "b05",
+   "name": "Harder Kulm"
+  },
+  {
+   "id": "b06",
+   "name": "Schynige Platte"
+  },
+  {
+   "id": "b07",
+   "name": "Brienzer Rothorn"
+  },
+  {
+   "id": "b08",
+   "name": "Ballenberg"
+  },
+  {
+   "id": "b09",
+   "name": "Morgensonne"
+  },
+  {
+   "id": "b10",
+   "name": "Abendsonne"
+  },
+  {
+   "id": "b11",
+   "name": "La Gare"
+  },
+  {
+   "id": "b12",
+   "name": "La Bohème"
+  }
+ ]
+}

@@ -1,0 +1,646 @@
+{
+ "quelle": "Sechs Häuser — Drucksachen/mehr.py (Roberts Auswahl vom 10.10.2026)",
+ "druck": [
+  {
+   "id": "ansichtskarten",
+   "name": "Ansichtskarten",
+   "format": "A6 quer, vier Motive",
+   "titel": [
+    "Grüsse aus",
+    "Bönigen."
+   ],
+   "satz": "Ihr Haus hat eine eigene Postkarte von 1910, sie ist hier wieder dabei. Dazu das Haus vom Wasser, der Brienzersee und der Harder Kulm. Das Schild in der Bildecke nennt den Ort.",
+   "seiten": 5,
+   "karton": [
+    [
+     "m-ansichtskarten-1",
+     46,
+     ""
+    ],
+    [
+     "m-ansichtskarten-2",
+     46,
+     ""
+    ],
+    [
+     "m-ansichtskarten-3",
+     46,
+     ""
+    ],
+    [
+     "m-ansichtskarten-4",
+     46,
+     ""
+    ],
+    [
+     "m-ansichtskarten-5",
+     46,
+     "Rückseite"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-ansichtskarten.pdf",
+   "masse": {
+    "m-ansichtskarten-1": [
+     1000,
+     711
+    ],
+    "m-ansichtskarten-2": [
+     1000,
+     711
+    ],
+    "m-ansichtskarten-3": [
+     1000,
+     711
+    ],
+    "m-ansichtskarten-4": [
+     1000,
+     711
+    ],
+    "m-ansichtskarten-5": [
+     1000,
+     711
+    ]
+   }
+  },
+  {
+   "id": "briefpapier",
+   "name": "Briefpapier und Couvert",
+   "format": "A4 und C5",
+   "titel": [
+    "Briefbogen",
+    "und Couvert."
+   ],
+   "satz": "Briefbogen und Couvert mit Ihrem S. Auf dem Couvert liegt das Muster Ihrer Tapete.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-briefpapier-1",
+     40,
+     "Briefbogen"
+    ],
+    [
+     "m-briefpapier-2",
+     92,
+     "Couvert"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-briefpapier.pdf",
+   "masse": {
+    "m-briefpapier-1": [
+     1000,
+     1414
+    ],
+    "m-briefpapier-2": [
+     1400,
+     698
+    ]
+   }
+  },
+  {
+   "id": "willkommen",
+   "name": "Willkommenskarte",
+   "format": "A6 hoch, zweiseitig",
+   "titel": [
+    "Herzlich",
+    "willkommen."
+   ],
+   "satz": "«Hier sind Sie zuhause.» Die erste Karte im Zimmer: vorn Ihr S und das Willkommen, hinten Platz für ein paar persönliche Zeilen.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-willkommen-1",
+     40,
+     "Vorderseite"
+    ],
+    [
+     "m-willkommen-2",
+     40,
+     "Rückseite"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-willkommen.pdf",
+   "masse": {
+    "m-willkommen-1": [
+     796,
+     1120
+    ],
+    "m-willkommen-2": [
+     796,
+     1122
+    ]
+   }
+  },
+  {
+   "id": "tuerhaenger",
+   "name": "Türhänger",
+   "format": "90 × 230 mm, zweiseitig",
+   "titel": [
+    "Bitte nicht",
+    "stören."
+   ],
+   "satz": "Für jede Zimmertür, in Deutsch, Englisch und Französisch: dunkel für «Bitte nicht stören», hell für «Bitte Zimmer reinigen».",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-tuerhaenger-1",
+     28,
+     "Vorderseite"
+    ],
+    [
+     "m-tuerhaenger-2",
+     28,
+     "Rückseite"
+    ]
+   ],
+   "schatten": false,
+   "haengt": true,
+   "klein": false,
+   "pdf": "seiler-au-lac-tuerhaenger.pdf",
+   "masse": {
+    "m-tuerhaenger-1": [
+     682,
+     1740
+    ],
+    "m-tuerhaenger-2": [
+     682,
+     1742
+    ]
+   }
+  },
+  {
+   "id": "gutschein",
+   "name": "Gutschein",
+   "format": "DIN lang, zweiseitig",
+   "titel": [
+    "Ein Gutschein",
+    "zum Verschenken."
+   ],
+   "satz": "Auf Ihrer Seite steht «Gutschein schenken». Hier ist er gedruckt: vorn Ihr S und «Hier sind Sie zuhause.», hinten Platz für Namen, Leistung und Wert.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-gutschein-1",
+     88,
+     "Vorderseite"
+    ],
+    [
+     "m-gutschein-2",
+     88,
+     "Rückseite"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-gutschein.pdf",
+   "masse": {
+    "m-gutschein-1": [
+     1400,
+     668
+    ],
+    "m-gutschein-2": [
+     1400,
+     668
+    ]
+   }
+  },
+  {
+   "id": "geschichte",
+   "name": "Blatt zur Geschichte des Hauses",
+   "format": "A4",
+   "titel": [
+    "Vom Caféhaus",
+    "zum Hotel am See."
+   ],
+   "satz": "Vom Caféhaus Mühlemann 1873 bis zum Seerestaurant La Gare: fünf Jahre aus Ihrer Geschichte, mit den Sätzen Ihrer Website.",
+   "seiten": 1,
+   "karton": [
+    [
+     "m-geschichte-1",
+     50,
+     ""
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-geschichte.pdf",
+   "masse": {
+    "m-geschichte-1": [
+     1000,
+     1414
+    ]
+   }
+  },
+  {
+   "id": "untersetzer",
+   "name": "Untersetzer",
+   "format": "rund, 100 mm",
+   "titel": [
+    "Zwei",
+    "Untersetzer."
+   ],
+   "satz": "Für das Seerestaurant La Gare und die Terrasse am Quai: vorn Ihr S, hinten «Hier sind Sie zuhause.».",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-untersetzer-1",
+     44,
+     "Vorderseite"
+    ],
+    [
+     "m-untersetzer-2",
+     44,
+     "Rückseite"
+    ]
+   ],
+   "schatten": false,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-untersetzer.pdf",
+   "masse": {
+    "m-untersetzer-1": [
+     758,
+     758
+    ],
+    "m-untersetzer-2": [
+     758,
+     758
+    ]
+   }
+  },
+  {
+   "id": "tischset",
+   "name": "Tischset",
+   "format": "A3 quer",
+   "titel": [
+    "Ein",
+    "Tischset."
+   ],
+   "satz": "Für La Bohème mit dem Pizzaofen: ein Tischset mit Ihrem S, Ihrem Satz und dem Haus am See.",
+   "seiten": 1,
+   "karton": [
+    [
+     "m-tischset-1",
+     94,
+     ""
+    ]
+   ],
+   "schatten": false,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-tischset.pdf",
+   "masse": {
+    "m-tischset-1": [
+     1400,
+     990
+    ]
+   }
+  },
+  {
+   "id": "rechnungsmappe",
+   "name": "Rechnungsmappe",
+   "format": "120 × 220 mm",
+   "titel": [
+    "Die Rechnung",
+    "am Tisch."
+   ],
+   "satz": "Für La Gare und La Bohème: vorn Ihr S, innen der Dank und Platz für die Rechnung.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-rechnungsmappe-1",
+     34,
+     "Umschlag"
+    ],
+    [
+     "m-rechnungsmappe-2",
+     34,
+     "Innen"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-rechnungsmappe.pdf",
+   "masse": {
+    "m-rechnungsmappe-1": [
+     908,
+     1664
+    ],
+    "m-rechnungsmappe-2": [
+     908,
+     1666
+    ]
+   }
+  },
+  {
+   "id": "reserviert",
+   "name": "Reserviert-Aufsteller",
+   "format": "110 × 62 mm, gefaltet",
+   "titel": [
+    "Der Tisch",
+    "ist reserviert."
+   ],
+   "satz": "Für die Tische am Fenster zum See: vorn «Reserviert», hinten Platz für den Namen und die Zeit.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-reserviert-1",
+     52,
+     "Vorderseite"
+    ],
+    [
+     "m-reserviert-2",
+     52,
+     "Rückseite"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-reserviert.pdf",
+   "masse": {
+    "m-reserviert-1": [
+     832,
+     470
+    ],
+    "m-reserviert-2": [
+     832,
+     472
+    ]
+   }
+  },
+  {
+   "id": "kissen",
+   "name": "Kissenkarte",
+   "format": "A6 hoch",
+   "titel": [
+    "Das Kissen",
+    "nach Wahl."
+   ],
+   "satz": "Synthetische Kissen und Duvets und ein Kissen mehr auf Wunsch stehen auf Ihrer Seite. Als Karte im Zimmer sieht der Gast gleich, was es gibt.",
+   "seiten": 1,
+   "karton": [
+    [
+     "m-kissen-1",
+     46,
+     ""
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-kissen.pdf",
+   "masse": {
+    "m-kissen-1": [
+     796,
+     1120
+    ]
+   }
+  },
+  {
+   "id": "hunde",
+   "name": "Karte für Gäste mit Hund",
+   "format": "A6 quer, zweiseitig",
+   "titel": [
+    "Für Gäste",
+    "auf vier Pfoten."
+   ],
+   "satz": "Hunde sind bei Ihnen willkommen, auch im Restaurant. Diese Karte begrüsst sie im Zimmer.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-hunde-1",
+     47,
+     "Vorderseite"
+    ],
+    [
+     "m-hunde-2",
+     47,
+     "Rückseite"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": false,
+   "pdf": "seiler-au-lac-hunde.pdf",
+   "masse": {
+    "m-hunde-1": [
+     1000,
+     711
+    ],
+    "m-hunde-2": [
+     1000,
+     711
+    ]
+   }
+  },
+  {
+   "id": "waesche",
+   "name": "Wäscheliste",
+   "format": "A5",
+   "titel": [
+    "Die",
+    "Wäscheliste."
+   ],
+   "satz": "Für den Wäscheservice: Abgabe vor 10.00 Uhr, zurück innerhalb von 36 Stunden, wie auf Ihrer Seite. Mit Platz für Anzahl und Unterschrift.",
+   "seiten": 1,
+   "karton": [
+    [
+     "m-waesche-1",
+     46,
+     ""
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-waesche.pdf",
+   "masse": {
+    "m-waesche-1": [
+     1000,
+     1418
+    ]
+   }
+  },
+  {
+   "id": "parkkarte",
+   "name": "Parkkarte",
+   "format": "A6 quer",
+   "titel": [
+    "Gast",
+    "des Hauses."
+   ],
+   "satz": "Parkplätze vor dem Haus und die Garage stehen auf Ihrer Seite. Die Karte liegt hinter der Scheibe und zeigt, wer bei Ihnen zu Gast ist.",
+   "seiten": 1,
+   "karton": [
+    [
+     "m-parkkarte-1",
+     62,
+     ""
+    ]
+   ],
+   "schatten": false,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-parkkarte.pdf",
+   "masse": {
+    "m-parkkarte-1": [
+     1000,
+     711
+    ]
+   }
+  },
+  {
+   "id": "spatermin",
+   "name": "Terminkarte fürs Spa",
+   "format": "85 × 55 mm",
+   "titel": [
+    "Ihr Termin",
+    "zur Massage."
+   ],
+   "satz": "Für die Massage bei Franco Vitaliano: vorn Datum, Zeit und Behandlung, hinten Ihr S.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-spatermin-1",
+     46,
+     "Vorderseite"
+    ],
+    [
+     "m-spatermin-2",
+     46,
+     "Rückseite"
+    ]
+   ],
+   "schatten": true,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-spatermin.pdf",
+   "masse": {
+    "m-spatermin-1": [
+     644,
+     418
+    ],
+    "m-spatermin-2": [
+     644,
+     418
+    ]
+   }
+  },
+  {
+   "id": "tagung",
+   "name": "Tischreiter und Namensschild für Tagungen",
+   "format": "210 × 70 mm und 75 × 30 mm",
+   "titel": [
+    "Für Tagungen",
+    "und Seminare."
+   ],
+   "satz": "Für Seminare in Ihren Sälen: ein Tischreiter für jeden Platz und ein Namensschild zum Anstecken.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-tagung-1",
+     90,
+     "Tischreiter"
+    ],
+    [
+     "m-tagung-2",
+     40,
+     "Namensschild"
+    ]
+   ],
+   "schatten": false,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-tagung.pdf",
+   "masse": {
+    "m-tagung-1": [
+     1400,
+     467
+    ],
+    "m-tagung-2": [
+     568,
+     228
+    ]
+   }
+  },
+  {
+   "id": "willkommenstafel",
+   "name": "Willkommenstafel für Anlässe",
+   "format": "A2 auf Staffelei",
+   "titel": [
+    "Eine Tafel",
+    "zur Begrüssung."
+   ],
+   "satz": "Für den Eingang des Saals: eine Tafel, die Seminare und Feste begrüsst.",
+   "seiten": 1,
+   "karton": [
+    [
+     "m-willkommenstafel-1",
+     52,
+     ""
+    ]
+   ],
+   "schatten": false,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-willkommenstafel.pdf",
+   "masse": {
+    "m-willkommenstafel-1": [
+     1000,
+     1414
+    ]
+   }
+  },
+  {
+   "id": "gepaeck",
+   "name": "Gepäckanhänger",
+   "format": "60 × 120 mm, zweiseitig",
+   "titel": [
+    "Für das Gepäck",
+    "an der Rezeption."
+   ],
+   "satz": "Für Gäste, die mit dem Schiff ankommen oder weiterfahren: vorn Ihr S, hinten Platz für Name, Zimmer und Abholung.",
+   "seiten": 2,
+   "karton": [
+    [
+     "m-gepaeck-1",
+     26,
+     "Vorderseite"
+    ],
+    [
+     "m-gepaeck-2",
+     26,
+     "Rückseite"
+    ]
+   ],
+   "schatten": false,
+   "haengt": false,
+   "klein": true,
+   "pdf": "seiler-au-lac-gepaeck.pdf",
+   "masse": {
+    "m-gepaeck-1": [
+     454,
+     908
+    ],
+    "m-gepaeck-2": [
+     454,
+     908
+    ]
+   }
+  }
+ ],
+ "raster": "<section class=\"fl fl--creme blatt galerie-p\" id=\"kleinigkeiten\"><div class=\"in\">\n  <div class=\"kopfzeile\"><div><p class=\"kap\" data-a=\"auf\"><b>14</b><i></i><span>Kleinigkeiten</span></p><h2 class=\"t2 zt\"><span class=\"z\"><span>Noch ein paar</span></span><span class=\"z\"><span><em>Kleinigkeiten.</em></span></span></h2></div>\n  <div class=\"lauf\"><p data-a=\"worte\">Dazu ein paar kleinere Dinge für Tisch, Zimmer und Rezeption, im selben Stil. Ein Klick aufs Bild zeigt sie gross, jedes gibt es als PDF.</p></div></div>\n  <div class=\"raster-p klein\" style=\"--karton:#928976\"><article class=\"kachel gross3 gross2\" id=\"rechnungsmappe\" data-a=\"auf\" style=\"--i:0\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-rechnungsmappe-g.webp\" data-name=\"Rechnungsmappe\" aria-label=\"Rechnungsmappe gross ansehen\"><img src=\"img/k-rechnungsmappe.webp\" width=\"900\" height=\"620\" alt=\"Rechnungsmappe\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">120 × 220 mm</p><h3>Rechnungsmappe</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-rechnungsmappe.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel gross3\" id=\"reserviert\" data-a=\"auf\" style=\"--i:1\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-reserviert-g.webp\" data-name=\"Reserviert-Aufsteller\" aria-label=\"Reserviert-Aufsteller gross ansehen\"><img src=\"img/k-reserviert.webp\" width=\"900\" height=\"620\" alt=\"Reserviert-Aufsteller\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">110 × 62 mm, gefaltet</p><h3>Reserviert-Aufsteller</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-reserviert.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel gross3\" id=\"kissen\" data-a=\"auf\" style=\"--i:2\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-kissen-g.webp\" data-name=\"Kissenkarte\" aria-label=\"Kissenkarte gross ansehen\"><img src=\"img/k-kissen.webp\" width=\"900\" height=\"620\" alt=\"Kissenkarte\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">A6 hoch</p><h3>Kissenkarte</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-kissen.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel\" id=\"waesche\" data-a=\"auf\" style=\"--i:3\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-waesche-g.webp\" data-name=\"Wäscheliste\" aria-label=\"Wäscheliste gross ansehen\"><img src=\"img/k-waesche.webp\" width=\"900\" height=\"620\" alt=\"Wäscheliste\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">A5</p><h3>Wäscheliste</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-waesche.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel\" id=\"parkkarte\" data-a=\"auf\" style=\"--i:0\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-parkkarte-g.webp\" data-name=\"Parkkarte\" aria-label=\"Parkkarte gross ansehen\"><img src=\"img/k-parkkarte.webp\" width=\"900\" height=\"620\" alt=\"Parkkarte\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">A6 quer</p><h3>Parkkarte</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-parkkarte.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel\" id=\"spatermin\" data-a=\"auf\" style=\"--i:1\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-spatermin-g.webp\" data-name=\"Terminkarte fürs Spa\" aria-label=\"Terminkarte fürs Spa gross ansehen\"><img src=\"img/k-spatermin.webp\" width=\"900\" height=\"620\" alt=\"Terminkarte fürs Spa\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">85 × 55 mm</p><h3>Terminkarte fürs Spa</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-spatermin.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel\" id=\"tagung\" data-a=\"auf\" style=\"--i:2\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-tagung-g.webp\" data-name=\"Tischreiter und Namensschild für Tagungen\" aria-label=\"Tischreiter und Namensschild für Tagungen gross ansehen\"><img src=\"img/k-tagung.webp\" width=\"900\" height=\"620\" alt=\"Tischreiter und Namensschild für Tagungen\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">210 × 70 mm und 75 × 30 mm</p><h3>Tischreiter und Namensschild für Tagungen</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-tagung.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel\" id=\"willkommenstafel\" data-a=\"auf\" style=\"--i:3\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-willkommenstafel-g.webp\" data-name=\"Willkommenstafel für Anlässe\" aria-label=\"Willkommenstafel für Anlässe gross ansehen\"><img src=\"img/k-willkommenstafel.webp\" width=\"900\" height=\"620\" alt=\"Willkommenstafel für Anlässe\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">A2 auf Staffelei</p><h3>Willkommenstafel für Anlässe</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-willkommenstafel.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article><article class=\"kachel\" id=\"gepaeck\" data-a=\"auf\" style=\"--i:0\"><button class=\"kachel__b\" type=\"button\" data-gross=\"img/k-gepaeck-g.webp\" data-name=\"Gepäckanhänger\" aria-label=\"Gepäckanhänger gross ansehen\"><img src=\"img/k-gepaeck.webp\" width=\"900\" height=\"620\" alt=\"Gepäckanhänger\" loading=\"lazy\" decoding=\"async\"></button><div class=\"kachel__t\"><p class=\"kachel__f\">60 × 120 mm, zweiseitig</p><h3>Gepäckanhänger</h3><a class=\"kachel__pdf\" href=\"pdf/seiler-au-lac-gepaeck.pdf\" target=\"_blank\" rel=\"noopener\">PDF<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4 12 12 4M5.5 4H12v6.5\"/></svg></a></div></article></div>\n</div></section>\n<div class=\"glupe\" id=\"glupe\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Grosse Ansicht\" hidden><button class=\"glupe__zu\" type=\"button\" aria-label=\"Schliessen\">×</button><img alt=\"\"><p></p></div>\n<script>\n(() => {\n  const l = document.getElementById('glupe'), b = l.querySelector('img'), t = l.querySelector('p');\n  const zu = () => { l.classList.remove('offen'); setTimeout(() => { l.hidden = true; b.removeAttribute('src'); }, 220); };\n  document.addEventListener('click', ev => {\n    const k = ev.target.closest('[data-gross]');\n    if (k) { b.src = k.dataset.gross; b.alt = k.dataset.name; t.textContent = k.dataset.name; l.hidden = false; requestAnimationFrame(() => l.classList.add('offen')); l.querySelector('button').focus(); return; }\n    if (ev.target === l || ev.target.closest('.glupe__zu')) zu();\n  });\n  document.addEventListener('keydown', ev => { if (ev.key === 'Escape' && !l.hidden) zu(); });\n})();\n</script>\n",
+ "anzahl": 9
+}

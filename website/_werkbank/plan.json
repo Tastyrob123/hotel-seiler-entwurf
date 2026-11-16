@@ -1,0 +1,78 @@
+{
+ "port": 8921,
+ "base": "http://127.0.0.1:8921/",
+ "kurz": "seiler-au-lac",
+ "seiten": [
+  [
+   "index.html",
+   "Startseite",
+   8
+  ],
+  [
+   "zimmer.html",
+   "Zimmer",
+   6
+  ],
+  [
+   "essen-trinken.html",
+   "Essen und Trinken",
+   6
+  ],
+  [
+   "feiern-tagen.html",
+   "Feiern und Tagen",
+   5
+  ],
+  [
+   "angebote.html",
+   "Angebote",
+   4
+  ],
+  [
+   "vor-der-tuer.html",
+   "Vor der Tür",
+   5
+  ],
+  [
+   "haus.html",
+   "Das Haus",
+   6
+  ],
+  [
+   "kontakt.html",
+   "Kontakt",
+   3
+  ],
+  [
+   "rezeption/index.html",
+   "Rezeption im Chat",
+   4
+  ],
+  [
+   "impressum.html",
+   "Impressum",
+   1
+  ],
+  [
+   "datenschutz.html",
+   "Datenschutz",
+   1
+  ],
+  [
+   "agb.html",
+   "AGB",
+   1
+  ]
+ ],
+ "wahl": "main > section",
+ "start_ms": 5200,
+ "heute": "https://seileraulac.ch/",
+ "etiketten_ordner": "billette",
+ "name": "Hotel Seiler au Lac",
+ "gold": "#e6d3a3",
+ "punkt": "#9c564d",
+ "tinte": "#0b2a32",
+ "chat_frage": "Kann ich mit dem Schiff zum Hotel kommen?",
+ "chat_frage_h": "Gibt es im La Bohème Pizza?",
+ "mappe": true
+}

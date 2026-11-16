@@ -1,0 +1,149 @@
+/* Auftakt, Runde 3 (14.10.2026): zwanzig Fassungen im Aufbau des Grand Beau-Rivage. Gilt nur für auftakt-3/*.html und die Übersicht
+   auftakt-varianten-3.html (_varianten/auftakt_bau3.py). Die Startseite lädt diese Datei nicht. */
+
+/* ---------- Bausteine der Fassungen ---------- */
+/* Gruppe oben im Himmel, Buchung am Boden */
+.hv-oben .hero__in{justify-content:space-between;padding-top:clamp(112px,13vh,150px)}
+.hv-oben .leiste{margin-top:auto}
+/* Gruppe unten auf dem Wasser */
+.hv-unten .hero__in{justify-content:flex-end}
+.hv-unten .hero__kopf{margin-top:auto}
+.hv-unten .leiste{margin-top:clamp(26px,3.4vh,40px)}
+/* dunkles Foto: Schleier und Hof nur noch halb */
+.hv-leise .hero__bild::after{opacity:.4}
+.hv-leise .hero__hof{opacity:.55}
+.hv-leise .hero__sub::before{opacity:.5}
+
+/* helle Fassung: dunkle Schrift, kein Schatten */
+.hv-hell .hero__bild::after{background:linear-gradient(180deg,rgba(248,242,229,.5) 0%,rgba(248,242,229,.14) 38%,rgba(0,0,0,0) 60%)}
+.hv-hell .hero__schatten{display:none}
+.hv-hell .hero__name{color:var(--tinte)}
+.hv-hell .hero .hero__ort,.hv-hell.hero .hero__ort{background:linear-gradient(180deg,#b8924c 0%,#a07c3f 45%,#7a5c2c 60%,#a07c3f 100%);-webkit-background-clip:text;background-clip:text;filter:none}
+.hv-hell .hero__sub{color:var(--tinte);text-shadow:none}
+.hv-hell .hero__sub::before{display:none}
+.hv-hell .hero__zeichen{filter:drop-shadow(0 1px 1px rgba(60,40,15,.35)) drop-shadow(0 4px 12px rgba(60,40,15,.18))}
+
+/* Text links */
+.hv-links .hero__in{align-items:flex-start;text-align:left;justify-content:flex-end}
+.hv-links .hero__titel{justify-items:start}
+.hv-links .hero__kopf{max-width:min(760px,62vw)}
+.hv-links .hero__hof{left:-40%;transform:none;width:150%;top:-260px;bottom:-200px}
+.hv-links .hero__sub{max-width:40ch;text-wrap:pretty}
+.hv-links .hero__sub::before{inset:-70px -120px -76px -260px}
+.hv-links .leiste{margin-left:0;max-width:920px}
+.hv-links--mitte .hero__in{justify-content:center}
+.hv-links--mitte .leiste{margin-top:clamp(34px,5vh,56px)}
+/* Text rechts */
+.hv-rechts .hero__in{align-items:flex-end;text-align:right;justify-content:flex-end}
+.hv-rechts .hero__titel{justify-items:end}
+.hv-rechts .hero__kopf{max-width:min(720px,58vw)}
+.hv-rechts .hero__hof{left:auto;right:-40%;transform:none;width:150%;top:-260px;bottom:-200px}
+.hv-rechts .hero__sub{max-width:36ch;margin-left:auto;text-wrap:pretty}
+.hv-rechts .hero__sub::before{inset:-70px -260px -76px -120px}
+.hv-rechts .leiste{margin-right:0;max-width:920px}
+
+/* 06 Wortmarke */
+.hv-wort .hero__titel--wort{margin-top:0}
+.hv-wort .hero__wortmarke{width:clamp(300px,36vw,560px);opacity:1;transform:none}
+.hv-wort .hero__ort{margin-top:clamp(18px,2vw,28px)}
+
+
+/* 09 Fenster in der Holzfläche */
+.hv-fensterrahmen{background:var(--holz) url(../img/tapete-dunkel.webp) 50% 0/176px auto}
+.hv-fenster{position:absolute;inset:clamp(92px,11vh,118px) var(--rand) clamp(70px,9vh,96px);border-radius:var(--r-xl);overflow:hidden;box-shadow:0 0 0 1px rgba(225,197,128,.35)}
+.hv-fenster .hero__bild{inset:0 0 -16% 0}
+.hv-fensterrahmen .hero__in{padding-top:clamp(150px,19vh,210px);padding-bottom:clamp(38px,5vh,60px)}
+.hv-fensterrahmen .leiste{margin-top:auto}
+
+/* 10/11 zweigeteilt: Fläche mit Tapete und Foto */
+.hv-platte{display:grid;grid-template-columns:minmax(0,42fr) minmax(0,58fr)}
+.hv-platte__bild{position:relative;min-height:100svh;overflow:hidden}
+.hv-platte__bild img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hv-platte .hero__in{max-width:none;margin:0;justify-content:center;padding:clamp(120px,15vh,170px) clamp(28px,3.4vw,64px) clamp(36px,5vh,60px);min-height:100svh}
+.hv-platte--links .hero__in{grid-column:1;grid-row:1}
+.hv-platte--links .hv-platte__bild{grid-column:2;grid-row:1}
+.hv-platte--rechts{grid-template-columns:minmax(0,58fr) minmax(0,42fr)}
+.hv-platte--rechts .hv-platte__bild{grid-column:1;grid-row:1}
+.hv-platte--rechts .hero__in{grid-column:2;grid-row:1}
+.hv-platte .hero__schatten{display:none}
+.hv-platte .hero__name{font-size:clamp(1.4rem,2.9vw,3rem)}
+.hv-platte .hero__sub{text-shadow:none;max-width:30ch}
+.hv-platte .hero__sub::before{display:none}
+.hv-platte .hero__zeichen,.hv-platte .hero__ort{filter:none}
+.hv-platte--rechts .hero__name{color:var(--tinte)}
+.hv-platte--rechts .hero__sub{color:var(--tinte)}
+
+/* 15 Ansichtskarte von 1910 */
+.hv-karte__fl{position:absolute;inset:0;z-index:0}
+.hv-karte .hero__in{flex-direction:row;align-items:center;justify-content:center;gap:clamp(36px,5vw,96px);padding-top:clamp(120px,15vh,160px)}
+.hv-karte__bild{margin:0;flex:0 1 46%;padding:clamp(10px,1vw,16px) clamp(10px,1vw,16px) 0;background:#f4ead4;border-radius:4px;transform:rotate(-2deg);box-shadow:0 30px 60px -24px rgba(0,0,0,.7)}
+.hv-karte__bild img{display:block;width:100%;height:auto;filter:sepia(.25)}
+.hv-karte__bild figcaption{font-family:var(--serif);font-style:italic;color:var(--tinte);text-align:right;padding:8px 4px 10px;font-size:1.05rem}
+.hv-karte__text{flex:0 1 46%;display:flex;flex-direction:column;align-items:center}
+.hv-karte .hero__schatten{display:none}
+.hv-karte .hero__sub{text-shadow:none}
+.hv-karte .hero__sub::before{display:none}
+
+/* 16 Morgen und Abend */
+.hv-zwei{display:grid;grid-template-columns:1fr 1fr}
+.hv-zwei>div{position:relative;overflow:hidden}
+.hv-zwei img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hv-zwei>div+div{box-shadow:-1px 0 0 rgba(225,197,128,.5)}
+
+/* 17 breites Band */
+.hv-band{background:var(--holz) url(../img/tapete-dunkel.webp) 50% 0/176px auto}
+.hv-band .hero__in{max-width:none;padding-left:0;padding-right:0;padding-top:clamp(104px,12vh,130px)}
+.hv-band .hero__zeichen{width:clamp(56px,5vw,80px)}
+.hv-band .hero__schatten{display:none}
+.hv-band .hero__titel{margin-top:10px}
+.hv-band__bild{width:100%;height:clamp(220px,34vh,380px);margin-top:clamp(22px,3vh,34px);overflow:hidden;box-shadow:0 1px 0 rgba(225,197,128,.5),0 -1px 0 rgba(225,197,128,.5)}
+.hv-band__bild img{width:100%;height:100%;object-fit:cover}
+.hv-band .hero__sub{text-shadow:none;padding:0 var(--rand)}
+.hv-band .hero__sub::before{display:none}
+.hv-band .leiste{margin:clamp(22px,3vh,36px) auto 0;width:calc(100% - 2*var(--rand))}
+
+/* Buchungsleiste in der schmalen Spalte (10, 11, 15): zwei Felder je Zeile wie am Handy */
+.hero:is(.hv-platte,.hv-karte) .leiste{display:grid;grid-template-columns:1fr 1fr;max-width:520px;padding:12px 10px 10px;border-radius:30px;margin-top:clamp(28px,4vh,48px)}
+.hero:is(.hv-platte,.hv-karte) .leiste label,.hero:is(.hv-platte,.hv-karte) .leiste label:first-of-type{padding:8px 14px}
+.hero:is(.hv-platte,.hv-karte) .leiste label:nth-of-type(3){grid-column:1/-1;border-left:0;border-top:1px solid var(--linie);padding-top:12px}
+.hero:is(.hv-platte,.hv-karte) .leiste .kn{grid-column:1/-1;margin:8px 0 0;justify-self:stretch;justify-content:center}
+.hv-karte .hero__name{font-size:clamp(1.3rem,2.6vw,2.7rem);letter-spacing:.14em;white-space:nowrap}
+.hv-karte .hero__ort,.hv-platte .hero__ort{letter-spacing:.2em}
+/* 08 Der Name gross: ohne Zeichen, der Name trägt allein */
+.hv-gross .hero__in{justify-content:center;padding-top:clamp(120px,14vh,160px)}
+.hv-gross .hero__name{font-size:clamp(2rem,7.4vw,7.6rem);letter-spacing:.12em}
+.hv-gross .hero__ort{font-size:clamp(.8rem,1.15vw,1.15rem);margin-top:clamp(14px,1.6vw,22px)}
+.hv-gross .leiste{margin-top:auto}
+/* 20 Text links oben im Himmel */
+.hv-links--oben .hero__in{justify-content:space-between;padding-top:clamp(112px,13vh,150px)}
+.hv-links--oben .leiste{margin-top:auto}
+
+/* ---------- Handy ---------- */
+@media (max-width:860px){
+  .hv-links .hero__in,.hv-rechts .hero__in{align-items:center;text-align:center}
+  .hv-links .hero__titel,.hv-rechts .hero__titel{justify-items:center}
+  .hv-links .hero__kopf,.hv-rechts .hero__kopf{max-width:none}
+  .hv-links .hero__sub,.hv-rechts .hero__sub{margin-left:auto;margin-right:auto}
+  .hv-links .hero__hof,.hv-rechts .hero__hof{left:50%;right:auto;transform:translateX(-50%);width:210%}
+  .hv-platte{display:block}
+  .hv-platte__bild{min-height:46svh}
+  .hv-platte .hero__in{min-height:0;padding-top:clamp(40px,8vw,60px)}
+  .hv-karte .hero__in{flex-direction:column;gap:30px}
+  .hv-karte__bild{flex:none;width:86%}
+  .hv-karte__text{flex:none;width:100%}
+  .hv-zwei{grid-template-columns:1fr;grid-template-rows:1fr 1fr}
+  .hv-zwei>div+div{box-shadow:0 -1px 0 rgba(225,197,128,.5)}
+  .hv-fenster{inset:84px 12px 60px}
+}
+
+/* ---------- Übersichtsseite ---------- */
+.uebers{margin:0;min-height:100vh}
+.uebers__in{max-width:1560px;margin:0 auto;padding:56px clamp(16px,4vw,64px) 96px}
+.uebers h1{font-family:var(--caps);font-weight:400;letter-spacing:.12em;text-transform:uppercase;font-size:clamp(1.3rem,2.4vw,2rem);margin:0 0 12px}
+.uebers__in>p{font-family:var(--serif);font-size:1.25rem;max-width:62ch;margin:0 0 40px}
+.uebers__in>p a{color:var(--messing)}
+.uebers__raster{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,420px),1fr));gap:40px 28px}
+.u{display:block;color:var(--tinte);text-decoration:none}
+.u img{display:block;width:100%;height:auto;border-radius:14px;box-shadow:0 0 0 1px rgba(42,28,18,.12),0 18px 40px -26px rgba(42,28,18,.6)}
+.u b{display:block;margin-top:14px;font-family:var(--caps);font-weight:500;letter-spacing:.08em;text-transform:uppercase;font-size:.95rem}
+.u span{display:block;margin-top:6px;font-family:var(--serif);font-size:1.12rem;line-height:1.4}

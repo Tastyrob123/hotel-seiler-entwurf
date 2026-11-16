@@ -1,0 +1,165 @@
+@font-face{font-family:'Marcellus';font-style:normal;font-weight:400;src:url('../fonts/Marcellus-Regular.ttf') format('truetype')}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:400;src:url('../fonts/InstrumentSans-Regular.ttf') format('truetype')}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:500;src:url('../fonts/InstrumentSans-Medium.ttf') format('truetype')}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:600;src:url('../fonts/InstrumentSans-SemiBold.ttf') format('truetype')}
+@font-face{font-family:'DM Mono';font-style:normal;font-weight:400;src:url('../fonts/DMMono-Regular.ttf') format('truetype')}
+:root{--titel:'Marcellus',Georgia,'Times New Roman',serif;--tg:400;--muster:url("data:image/webp;base64,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");--musterb:22mm}
+/* Satz der Unterlagen. Masse in mm, Schrift in pt über --s (wird je Seite angepasst, damit nichts überläuft).
+   Farben sind die Bezugsfarben der Vorlage und werden beim Schreiben auf das Haus umgerechnet. Keine weichen Schatten. */
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:#9a917d;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.blatt{--s:1;position:relative;overflow:hidden;margin:8mm auto;background:#fbfaf6;color:#11282d;display:flex;flex-direction:column;font-family:'Instrument Sans',Arial,sans-serif;font-size:calc(9.4pt*var(--s));line-height:1.42;page-break-after:always;break-after:page}
+/* :where() wiegt nichts, sonst löscht diese Zeile die Abstände von .rubrik, .ut, .ab, .zw und .ul */
+:where(.blatt) :where(h1,h2,h3,h4,p,ul){margin:0;padding:0}
+.uband{flex:none;display:flex;align-items:center;gap:7mm;padding:9mm 15mm 8mm;background:#15525f var(--muster) 50% 0/var(--musterb) auto;color:#f7f5ef;border-bottom:.7mm solid #bb9a47}
+.uband--klein{padding:6mm 15mm 5mm}
+.uband__z{flex:none;width:17mm;color:#e6d3a3;display:block}
+.uband__z svg,.udeck__z svg,.uz svg,.uw svg{display:block;width:100%;height:auto}
+.uband h1{font-family:var(--titel);font-weight:var(--tg);font-size:25pt;line-height:1.08;letter-spacing:0}
+.uband--klein h1{font-size:19pt}
+.uband p{font-family:'DM Mono',Menlo,monospace;font-size:7pt;letter-spacing:.2em;text-transform:uppercase;color:#e6d3a3;margin-top:1.6mm}
+.inhalt{flex:1;min-height:0;padding:9mm 15mm 5mm;display:flex;flex-direction:column}
+.ufuss2{flex:none;margin:0 15mm;padding:3.2mm 0 6.5mm;border-top:.25mm solid #bb9a47;font-family:'DM Mono',Menlo,monospace;font-size:6.2pt;letter-spacing:.17em;text-transform:uppercase;text-align:center;color:rgba(17,40,45,.74)}
+.spalten{flex:1;min-height:0;display:grid;gap:0 11mm}
+.spalten--2{grid-template-columns:1fr 1fr}.spalten--3{grid-template-columns:1fr 1fr 1fr}.spalten--1{grid-template-columns:1fr}
+.sp{min-width:0;min-height:0}
+.spalten--2 .sp+.sp,.spalten--3 .sp+.sp{border-left:.25mm solid rgba(187,154,71,.5);padding-left:11mm;margin-left:-5.5mm}
+/* Rubrik: Titelschrift, gut doppelt so gross wie der Lesetext, kurze Linie darunter */
+.rubrik{display:flex;align-items:flex-end;justify-content:space-between;gap:4mm;font-family:var(--titel);font-weight:var(--tg);font-size:calc(19pt*var(--s));line-height:1.1;color:#15525f;margin:calc(5.4mm*var(--s)) 0 calc(2.4mm*var(--s));padding-bottom:calc(2.9mm*var(--s));position:relative}
+.rubrik::after{content:'';position:absolute;left:0;bottom:0;width:14mm;height:.5mm;background:#bb9a47}
+.sp>.rubrik:first-child,.inhalt>.rubrik:first-child{margin-top:0}
+.rubrik small{font-family:'Instrument Sans',Arial,sans-serif;font-weight:400;font-size:calc(8.6pt*var(--s));color:rgba(17,40,45,.72);margin-left:2.4mm}
+.rk{display:flex;gap:0;flex:none}
+.rk b{flex:none;width:calc(12.5mm*var(--s));min-width:0;text-align:right;font-family:var(--titel);font-weight:400;font-size:calc(7.6pt*var(--s));letter-spacing:.02em;color:#998247;white-space:nowrap}
+.rk b:empty::before{content:'\00a0'}
+.re .rk b em{font-family:'Instrument Sans',Arial,sans-serif;font-style:normal;font-weight:400;font-size:calc(8pt*var(--s));color:rgba(17,40,45,.72)}
+.zw{font-family:'DM Mono',Menlo,monospace;font-weight:400;font-size:calc(6.8pt*var(--s));letter-spacing:.22em;text-transform:uppercase;color:#998247;margin:calc(3.2mm*var(--s)) 0 calc(1.2mm*var(--s))}
+.po{display:flex;justify-content:space-between;align-items:baseline;gap:4mm;padding:calc(1.5mm*var(--s)) 0;break-inside:avoid}
+.po__t{min-width:0}
+.po h4{font-family:'Instrument Sans',Arial,sans-serif;font-weight:600;font-size:calc(10pt*var(--s));line-height:1.28;color:#11282d}
+.po h4 small{font-weight:400;font-size:calc(8.2pt*var(--s));color:rgba(17,40,45,.72)}
+.po p{font-size:calc(8.6pt*var(--s));line-height:1.36;color:rgba(17,40,45,.86)}
+.po p.fr{font-style:italic;color:rgba(17,40,45,.62);font-size:calc(8pt*var(--s))}
+.po__p{flex:none;text-align:right;display:flex;flex-direction:column;gap:.4mm}
+.pz{display:flex;justify-content:flex-end;align-items:baseline;gap:2.4mm;white-space:nowrap}
+.pz b{font-family:var(--titel);font-weight:var(--tg);font-size:calc(11pt*var(--s));color:#15525f;min-width:calc(11mm*var(--s));text-align:right}
+.pz em{font-style:normal;font-size:calc(8pt*var(--s));color:rgba(17,40,45,.72)}
+.re{display:flex;justify-content:space-between;align-items:baseline;gap:3mm;padding:calc(.72mm*var(--s)) 0}
+.re__n{font-weight:600;font-size:calc(9.4pt*var(--s));min-width:0}
+.re__n small{font-weight:400;font-size:calc(8.2pt*var(--s));color:rgba(17,40,45,.72)}
+.re .rk b{font-family:var(--titel);font-weight:var(--tg);font-size:calc(9.6pt*var(--s));letter-spacing:0;text-transform:none;color:#15525f}
+.ab{font-size:calc(9.4pt*var(--s));line-height:1.5;margin-bottom:calc(2.4mm*var(--s))}
+.ab.gross{font-family:var(--titel);font-weight:var(--tg);font-size:calc(13pt*var(--s));line-height:1.3;color:#15525f}
+.ab.fr{font-style:italic;color:rgba(17,40,45,.66);font-size:calc(8.8pt*var(--s))}
+.ab.mitte,.ut.mitte{text-align:center}
+.ab.klein{font-size:calc(8pt*var(--s));color:rgba(17,40,45,.76)}
+.ut{font-family:var(--titel);font-weight:var(--tg);font-size:calc(19pt*var(--s));line-height:1.12;color:#15525f;margin:calc(5mm*var(--s)) 0 calc(2.4mm*var(--s))}
+.ut.klein{font-size:calc(14pt*var(--s))}
+.ukasten{border:.3mm solid #bb9a47;border-radius:3mm;padding:calc(4mm*var(--s)) calc(5mm*var(--s));margin:calc(3mm*var(--s)) 0;break-inside:avoid}
+.ukasten h3{font-family:var(--titel);font-weight:var(--tg);font-size:calc(13pt*var(--s));color:#15525f;margin-bottom:calc(1.6mm*var(--s))}
+.ukasten.dunkel{background:#15525f;border-color:#15525f;color:#f7f5ef}
+.ukasten.dunkel h3{color:#e6d3a3}.ukasten.dunkel .ab{color:#f7f5ef}
+.ul{list-style:none}
+.ul li{position:relative;padding-left:5mm;font-size:calc(9.2pt*var(--s));line-height:1.45;margin-bottom:calc(1.2mm*var(--s))}
+/* Strich als Kante statt Fläche: eine Fläche von .35mm rundet je nach Lage auf 1 oder 2 Bildpunkte, die Striche wurden ungleich dick */
+.ul li::before{content:'';position:absolute;left:0;top:.62em;width:2.6mm;height:0;border-top:.35mm solid #bb9a47}
+.ulin{display:block;width:14mm;height:.5mm;background:#bb9a47;margin:calc(3mm*var(--s)) 0}
+.mitte .ulin,.ulin.mitte{margin-left:auto;margin-right:auto}
+.ubild{display:block;width:100%;object-fit:cover;border-radius:2.4mm}
+.udeck{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;background:#15525f var(--muster) 50% 0/var(--musterb) auto;color:#f7f5ef;margin:-9mm -15mm -5mm;padding:14mm}
+.udeck__z{width:34mm;color:#e6d3a3;margin-bottom:9mm}
+.udeck h1{font-family:var(--titel);font-weight:var(--tg);font-size:44pt;line-height:1.06}
+.udeck i{display:block;width:20mm;height:.6mm;background:#e6d3a3;margin:7mm 0}
+.udeck p{font-size:10.5pt;line-height:1.5;max-width:120mm}
+.udeck__u{font-family:'DM Mono',Menlo,monospace;font-size:8pt!important;letter-spacing:.22em;text-transform:uppercase;color:#e6d3a3;margin-bottom:5mm}
+.uz{display:block;width:26mm;color:#bb9a47}.uz.mitte,.uw.mitte{margin-left:auto;margin-right:auto}
+.uw{display:block;width:70mm;color:#15525f}
+@page{margin:0}
+@media print{html,body{background:#ffffff}.blatt{margin:0}}
+/* aus dem Original gelesene Karten (satz_auto.py): Zeilen unter dem Gericht, Übersetzungen kursiv und heller */
+.po p.fr{font-style:italic;color:rgba(17,40,45,.6);font-size:calc(7.9pt*var(--s))}
+.po--frei p{font-size:calc(9pt*var(--s))}
+.po__p--reihe{flex-direction:row;gap:calc(3mm*var(--s))}
+.oder{font-family:'DM Mono',Menlo,monospace;font-size:calc(6.2pt*var(--s));letter-spacing:.2em;text-transform:uppercase;color:#998247;margin:calc(.6mm*var(--s)) 0!important}
+.po p.mp{display:flex;justify-content:space-between;gap:3mm;align-items:baseline}
+.po p.mp b{font-family:var(--titel);font-weight:var(--tg);font-size:calc(10pt*var(--s));color:#15525f;white-space:nowrap;margin-left:2.4mm}
+.po:has(p.mp) .po__t{flex:1}
+.tmreihe{display:grid;gap:0 6mm;margin-bottom:calc(5mm*var(--s))}
+.tmsp{min-width:0;border-top:.5mm solid #bb9a47;padding-top:calc(2mm*var(--s))}
+.tmsp h4.tag{font-family:var(--titel);font-weight:var(--tg);font-size:calc(12.5pt*var(--s));line-height:1.15;color:#15525f;margin-bottom:calc(1.6mm*var(--s))}
+.tmsp p{margin:0}
+.tmsp p.gang{font-weight:600;font-size:calc(9pt*var(--s));line-height:1.3;margin-top:calc(.5mm*var(--s))}
+.tmsp p.fr{font-style:italic;font-size:calc(7.2pt*var(--s));line-height:1.3;color:rgba(17,40,45,.62)}
+.tmsp p.stern{font-size:calc(6pt*var(--s));letter-spacing:.3em;color:#bb9a47;margin:calc(.8mm*var(--s)) 0}
+.uleiste{flex:none;display:flex;align-items:center;justify-content:center;gap:4mm;padding:8mm 15mm 0;color:#bb9a47}
+.uleiste span{display:block;width:11mm}.uleiste span svg{display:block;width:100%;height:auto}
+.uleiste b{font-family:'DM Mono',Menlo,monospace;font-weight:400;font-size:6.6pt;letter-spacing:.24em;text-transform:uppercase}
+.uleiste+.inhalt{padding-top:6mm}
+.po p.halb{font-weight:600;color:#11282d}
+.po p.stern,.inhalt>p.stern,.sp>p.stern{font-size:calc(6pt*var(--s));letter-spacing:.3em;color:#bb9a47;margin:calc(.6mm*var(--s)) 0}
+/* Aussenseite einer gefalzten Karte: eine Spalte ist der Deckel in der dunklen Farbe des Hauses */
+.karte .inhalt{padding:10mm 12mm 8mm}
+.karte--aussen .inhalt{padding:0}
+.karte--aussen .spalten{gap:0}
+.karte--aussen .sp{padding:10mm 9mm 8mm 12mm}
+.karte--aussen .sp:last-child{padding:0}
+.karte--aussen .sp+.sp{border-left:0;margin-left:0}
+.karte--aussen .sp+.sp:not(:last-child){padding-left:6mm}
+.deckel{height:100%;background:#15525f var(--muster) 50% 0/var(--musterb) auto;color:#f7f5ef;padding:17mm 11mm 12mm;display:flex;flex-direction:column;align-items:center;text-align:center}
+.deckel .uz{width:30mm;color:#e6d3a3}
+.deckel h1{font-family:var(--titel);font-weight:var(--tg);font-size:34pt;line-height:1.08;margin-top:9mm}
+.deckel>i{display:block;width:16mm;height:.5mm;background:#e6d3a3;margin:8mm 0;flex:none}
+.deckel__z{font-family:var(--titel);font-weight:var(--tg);font-size:14pt;line-height:1.36;color:#e6d3a3;max-width:78mm}
+.deckel__q{font-family:'DM Mono',Menlo,monospace;font-size:6.6pt;letter-spacing:.22em;text-transform:uppercase;margin-top:4mm!important}
+.deckel__a{font-size:8.4pt;line-height:1.6;margin-top:auto!important;padding-top:8mm;opacity:.9}
+.gutschein{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 4mm}
+.gutschein .uz{width:22mm;margin-bottom:8mm}
+.gutschein .ab{font-size:calc(11pt*var(--s));line-height:1.7}
+.gutschein .unten{margin-top:14mm!important;opacity:.7}
+.menupreis{text-align:right;margin:-11mm 0 5mm!important}
+.menupreis b{font-family:var(--titel);font-weight:var(--tg);font-size:calc(15pt*var(--s));color:#15525f}
+.rubrik .rp{font-size:calc(13pt*var(--s));white-space:nowrap}
+.po p.mp span{flex:1}
+.po p.mp b{min-width:calc(15mm*var(--s));text-align:right}
+.gutschein .ab{font-size:calc(9.4pt*var(--s))}
+.pz--k{flex-direction:column;align-items:flex-end;gap:0}
+.pz--k em,.po__p .pz>em:only-child{font-family:'DM Mono',Menlo,monospace;font-size:calc(5.6pt*var(--s));letter-spacing:.14em;text-transform:uppercase;color:#998247}
+.uraster{margin-top:calc(2mm*var(--s))}
+.uraster .rz{display:grid;grid-template-columns:repeat(var(--n),1fr);gap:0 6mm;padding:calc(1.5mm*var(--s)) 0;border-bottom:.2mm solid rgba(187,154,71,.4);font-size:calc(9.4pt*var(--s))}
+.uraster .rz.kopf{font-family:'DM Mono',Menlo,monospace;font-size:calc(6.4pt*var(--s));letter-spacing:.2em;text-transform:uppercase;color:#998247;border-bottom:.4mm solid #bb9a47}
+.uraster .rz span.fr{font-style:italic;color:rgba(17,40,45,.66)}
+.mitte .po,.po.mitte{justify-content:center;text-align:center}
+.mittig .po{flex-direction:column;align-items:center;text-align:center}
+.mittig .po__p{flex-direction:row}
+.mittig .rubrik{justify-content:center}.mittig .rubrik::after{left:50%;margin-left:-7mm}
+.mittig p.stern{text-align:center}
+
+/* Umbrüche: keine einzelnen Wörter auf der letzten Zeile, Titel ausgeglichen */
+.blatt p,.blatt h4,.blatt li{text-wrap:pretty}
+.blatt h1,.blatt h2,.blatt h3,.po h4,.po p{text-wrap:balance}
+
+.menu{margin-bottom:calc(5mm*var(--s));break-inside:avoid}
+.menu .rubrik{margin-top:calc(4mm*var(--s))}
+.menu__sp{display:grid;grid-template-columns:1fr 1fr;gap:0 8mm}
+.menu__sp .po{padding:calc(1mm*var(--s)) 0}
+.menu__sp .po p{font-size:calc(8.8pt*var(--s));line-height:1.4}
+.menu__sp .po p.fr{font-size:calc(8.2pt*var(--s))}
+.menu__sp .po p.stern,.po--frei p.stern{font-size:calc(6pt*var(--s));letter-spacing:.3em;color:#a98a45;margin:calc(.5mm*var(--s)) 0}
+.fitness{text-align:center;padding:calc(10mm*var(--s)) 0 calc(6mm*var(--s))}
+.fitness .ut{font-size:calc(30pt*var(--s));margin:0 0 calc(6mm*var(--s))}
+.fitness .ab.gross{font-size:calc(14pt*var(--s))}
+.boheme .po h4{font-weight:500;letter-spacing:.01em}
+.gare .po h4{font-weight:600}
+.teller .po h4{font-family:var(--titel);font-weight:400;font-size:calc(12pt*var(--s));color:#0b1f40}
+.teller .mittig{margin-top:calc(4mm*var(--s))}
+.info .ut.klein{margin-top:calc(4.6mm*var(--s))}
+.info .ut.klein:first-child{margin-top:0}
+.info .re{padding:calc(.5mm*var(--s)) 0;border-bottom:.2mm dotted rgba(169,138,69,.5)}
+.info .re__n{font-weight:400}
+.info .re .rk b{width:auto;min-width:0;padding-left:4mm}
+.nb{white-space:nowrap}
+.info .uraster .rz{font-size:calc(8.4pt*var(--s));padding:calc(.9mm*var(--s)) 0}
+.info .ubild{height:62mm;margin-bottom:calc(5mm*var(--s))}
+.deck .udeck p{font-size:10pt;line-height:1.55;margin-bottom:calc(2.4mm*var(--s))}
+.deck .udeck p b{font-weight:500;color:#dcc68f}
+.deck .udeck h1{font-size:36pt}

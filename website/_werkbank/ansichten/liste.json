@@ -1,0 +1,222 @@
+{
+ "index.html": {
+  "name": "Startseite",
+  "rechner": 8,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    1,
+    0.5
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    0
+   ],
+   [
+    12,
+    0
+   ]
+  ],
+  "handy": 8
+ },
+ "zimmer.html": {
+  "name": "Zimmer",
+  "rechner": 6,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    1,
+    0.3333333333333333
+   ],
+   [
+    1,
+    0.6666666666666666
+   ],
+   [
+    11,
+    0
+   ],
+   [
+    12,
+    0
+   ]
+  ],
+  "handy": 6
+ },
+ "essen-trinken.html": {
+  "name": "Essen und Trinken",
+  "rechner": 6,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    1,
+    0.5
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    6,
+    0.3333333333333333
+   ],
+   [
+    6,
+    0.6666666666666666
+   ]
+  ],
+  "handy": 6
+ },
+ "feiern-tagen.html": {
+  "name": "Feiern und Tagen",
+  "rechner": 5,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    1,
+    0.5
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    6,
+    0
+   ]
+  ],
+  "handy": 5
+ },
+ "angebote.html": {
+  "name": "Angebote",
+  "rechner": 4,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    5,
+    0
+   ]
+  ],
+  "handy": 4
+ },
+ "vor-der-tuer.html": {
+  "name": "Vor der Tür",
+  "rechner": 5,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ],
+   [
+    3,
+    0
+   ],
+   [
+    6,
+    0
+   ]
+  ],
+  "handy": 5
+ },
+ "haus.html": {
+  "name": "Das Haus",
+  "rechner": 6,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    1,
+    0.2
+   ],
+   [
+    1,
+    0.4
+   ],
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ]
+  ],
+  "handy": 6
+ },
+ "kontakt.html": {
+  "name": "Kontakt",
+  "rechner": 3,
+  "stellen": [
+   [
+    1,
+    0
+   ],
+   [
+    2,
+    0
+   ]
+  ],
+  "handy": 3
+ },
+ "rezeption/index.html": {
+  "name": "Rezeption im Chat",
+  "rechner": 1,
+  "stellen": [],
+  "handy": 1
+ },
+ "impressum.html": {
+  "name": "Impressum",
+  "rechner": 1,
+  "stellen": [],
+  "handy": 1
+ },
+ "datenschutz.html": {
+  "name": "Datenschutz",
+  "rechner": 1,
+  "stellen": [],
+  "handy": 1
+ },
+ "agb.html": {
+  "name": "AGB",
+  "rechner": 1,
+  "stellen": [],
+  "handy": 1
+ }
+}
