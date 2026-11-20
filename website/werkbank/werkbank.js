@@ -45,11 +45,14 @@
     z.split('').forEach(function (c, i) {
       if (!/\d/.test(c)) { var p = doc.createElement('i'); p.textContent = c; o.appendChild(p); return; }
       var s = doc.createElement('span'); s.className = 'od'; s.style.setProperty('--i', i); s.dataset.d = c;
-      for (var d = 0; d < 10; d++) { var e = doc.createElement('i'); e.textContent = d; s.appendChild(e); }
+      for (var d = 0; d < 10; d++) { var e = doc.createElement('i'); e.textContent = d; if (d) e.style.visibility = 'hidden'; s.appendChild(e); }
       o.appendChild(s);
     });
   });
-  function rolle(o) { $$('.od', o).forEach(function (s) { s.style.transform = 'translateY(' + (-10 * +s.dataset.d) + '%)'; }); }
+  function rolle(o) { $$('.od', o).forEach(function (s) {   /* Ziffern ausserhalb des Fensters sind nur waehrend des Rollens sichtbar (Pruefung 20.11.2026, Punkt 21) */
+    var z = +s.dataset.d, k = [].slice.call(s.children); k.forEach(function (c) { c.style.visibility = ''; });
+    s.style.transform = 'translateY(' + (-10 * z) + '%)';
+    setTimeout(function () { k.forEach(function (c, j) { if (j !== z) c.style.visibility = 'hidden'; }); }, 2600 + 130 * (+s.style.getPropertyValue('--i') || 0) + 250); }); }
   /* Serifen-Ziffern sind verschieden breit: jede Spalte bekommt die Breite ihrer Zielziffer */
   function odoBreite() {
     $$('.odo').forEach(function (o) {

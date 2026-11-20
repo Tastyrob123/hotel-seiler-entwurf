@@ -1173,3 +1173,21 @@ html.ins-ruhe :is(.stapel .tel,.runter i,.zeile__z,.namenzug div,.wb-band__zug,.
 @keyframes zt-sofort{from{transform:translateY(140%)}to{transform:none}}
 @media(prefers-reduced-motion:reduce){.auftakt .zt .z>span{animation:none;transform:none}}
 @media print{.auftakt .zt .z>span{animation:none;transform:none}}
+
+/* Prüfung 20.11.2026 (Prüfskript Punkte 36/37, Robert 16.11.2026 «zu klein und unleserlich»): Sperrschrift mindestens 14 px,
+   abgeschnittene Bildzeilen brechen um, Seiten-Wahl bricht am Rechner um statt rechts aus dem Bild zu laufen */
+.insel__m span,.insel nav a,.leiste .glanz,.kn,.fen__k span,.auftakt>.in>span,.auftakt .runter,.schild small,.gabe .pfeil,.cz__t .pfeil,
+.vgl__e,.gang__z,.brett-k span,.brett-k span i,.hd small,.brett-f,.wechsel .k,.wahl button,.schau__z,.etik span,.schrift__b,
+.farbkarte span,.kino__hin,.kino__k button,.cz__t small,.dazu__gross small,.sag-reg a,.sag-reg a span,.sag-h span,.gruss-u small,
+.blattk span,.blattk span b,.fh-hin,.fh3__ka,.fh3__kb,.wfa__zahl,.wfa__zahl span,.in>.r>a,.in>.r>span,
+.mn-ende span,.mn-haus,.mn-gang span{font-size:14px!important}
+.abzug span{white-space:normal;overflow:visible;text-overflow:clip;text-wrap:balance}
+.fen__k span{white-space:normal;overflow-wrap:anywhere}
+@media(min-width:900px){.wahl{flex-wrap:wrap;overflow-x:visible}}
+@media(max-width:520px){.kn{letter-spacing:.08em!important}}
+@media(min-width:900px){.chatb>.kino{position:sticky;top:112px}}
+@media(min-width:1600px){#ideen{padding-bottom:190px}}
+@media(min-width:1100px) and (max-width:1439px){.gaben--5{gap:10px}.gaben--5 .gabe{padding:18px 14px}}
+.fl,.gt__b{overflow-x:clip}
+.abzug span,.feedb__k span{hyphens:auto;-webkit-hyphens:auto}
+@media(max-width:480px){.farbkarten{grid-template-columns:repeat(2,minmax(0,1fr))}}
