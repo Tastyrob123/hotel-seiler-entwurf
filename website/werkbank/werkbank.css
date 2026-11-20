@@ -1191,3 +1191,6 @@ html.ins-ruhe :is(.stapel .tel,.runter i,.zeile__z,.namenzug div,.wb-band__zug,.
 .fl,.gt__b{overflow-x:clip}
 .abzug span,.feedb__k span{hyphens:auto;-webkit-hyphens:auto}
 @media(max-width:480px){.farbkarten{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.kn{white-space:normal;height:auto;min-height:48px;line-height:1.3;padding-top:8px;padding-bottom:8px;text-align:left}}
+@media(min-width:1600px){#gefuege{padding-bottom:180px}.stapel .abzug--3{right:0}}
+.gp2__wort::before{content:attr(data-wort)}
