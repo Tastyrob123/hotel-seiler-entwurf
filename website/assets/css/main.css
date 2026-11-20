@@ -2995,3 +2995,6 @@ html:not(#q1):not(#q2):not(#q3) .fv__leiste .fuss__sg img{filter:drop-shadow(0 6
 html body .kn.kn.kn.kn.kn{font-size:12.5px!important}
 .zgal-sek{padding-bottom:clamp(48px,5vw,80px)}
 #angaben+#einblicke{padding-top:clamp(24px,3vw,48px)}
+
+/* Prüfung 20.11.2026: lange Knopf-Texte am Handy umbrechen, damit der runde Pfeil im Knopf bleibt */
+@media(max-width:520px){.kn{white-space:normal;height:auto;min-height:52px;padding-top:7px;padding-bottom:7px;line-height:1.3;text-align:left}.kn i{flex:0 0 auto}}
