@@ -1194,3 +1194,4 @@ html.ins-ruhe :is(.stapel .tel,.runter i,.zeile__z,.namenzug div,.wb-band__zug,.
 @media(max-width:520px){.kn{white-space:normal;height:auto;min-height:48px;line-height:1.3;padding-top:8px;padding-bottom:8px;text-align:left}}
 @media(min-width:1600px){#gefuege{padding-bottom:180px}.stapel .abzug--3{right:0}}
 .gp2__wort::before{content:attr(data-wort)}
+@media(min-width:1600px){main>.fl{padding-bottom:180px}}
